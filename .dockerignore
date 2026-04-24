@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.venv/
+venv/
+.git/
+.gitignore
+uploads/
+*.log
+tests/accuracy/fixtures/*.pdf
+tests/accuracy/fixtures/*.docx
+tests/accuracy/fixtures/*.doc
