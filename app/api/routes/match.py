@@ -27,7 +27,8 @@ async def match_one(
         raise HTTPException(404, "resume not found or not parsed")
     if not job:
         raise HTTPException(404, "job not found")
-    if not resume.embedding or not job.embedding:
+    # pgvector returns numpy arrays — use explicit None check, not truthy eval
+    if resume.embedding is None or job.embedding is None:
         raise HTTPException(422, "embeddings missing — reprocess resume/job")
 
     schema = ResumeSchema(**resume.parsed_data)
@@ -74,7 +75,7 @@ async def top_candidates(
     job = await session.get(JobDescription, job_id)
     if not job:
         raise HTTPException(404, "job not found")
-    if not job.embedding:
+    if job.embedding is None:
         raise HTTPException(422, "job embedding missing")
 
     # pgvector ANN: sort by cosine distance against job embedding
@@ -98,7 +99,7 @@ async def top_candidates(
 
     ranked: list[dict] = []
     for r in candidates:
-        if not r.embedding:
+        if r.embedding is None:
             continue
         schema = ResumeSchema(**r.parsed_data)
         score = compute_match(schema, list(r.embedding), jd_input, list(job.embedding))
@@ -127,7 +128,7 @@ async def top_jobs(
     min_score = float(body.get("min_score", 0.0))
 
     resume = await session.get(Resume, resume_id)
-    if not resume or not resume.parsed_data or not resume.embedding:
+    if not resume or not resume.parsed_data or resume.embedding is None:
         raise HTTPException(404, "resume not found or not parsed")
 
     stmt = (
@@ -142,7 +143,7 @@ async def top_jobs(
 
     ranked: list[dict] = []
     for j in candidates:
-        if not j.embedding:
+        if j.embedding is None:
             continue
         jd_input = JobDescriptionIn(
             title=j.title,
