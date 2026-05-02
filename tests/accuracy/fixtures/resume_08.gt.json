@@ -1,0 +1,201 @@
+{
+  "personal_info": {
+    "full_name": "JESSICA CLAIRE",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": "100 Montgomery St. 10th Floor"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Highly motivated problem solver, effective communicator, and technician seeking transition from the U.S. Navy into a civilian career.\nSuccessfully completed 1 overseas deployment. Works well with team members and groups from diverse backgrounds. Experienced in technical\ntroubleshooting, team management, administrative accountability, and supply management.",
+  "skills": {
+    "technical": [
+      "Network And System Security",
+      "Software Debugging",
+      "Troubleshooting",
+      "Diagnostics",
+      "Equipment Maintenance",
+      "Radio Frequency Transmission",
+      "Signal Processing",
+      "Radar Systems",
+      "Electronics",
+      "Radar Fundamentals",
+      "Cable System Installation",
+      "Maintenance",
+      "Electromechanical Systems Troubleshooting",
+      "Networking Fundamentals",
+      "Electronic Systems Troubleshooting",
+      "Preventive Maintenance",
+      "Corrective Maintenance",
+      "Electronic Mechanical Control Systems"
+    ],
+    "soft": [
+      "Problem Solver",
+      "Effective Communicator",
+      "Team Lead",
+      "Training",
+      "Customer Service",
+      "Verbal Communication",
+      "Team Management",
+      "Administrative Accountability",
+      "Supply Management",
+      "Root Cause Analysis",
+      "Customer Service Expert",
+      "Mission Oriented"
+    ],
+    "languages": [],
+    "tools": [
+      "Desktop Support",
+      "Data Entry",
+      "Forklift",
+      "Boom Lift",
+      "Scissor Lift",
+      "Microsoft Software"
+    ],
+    "certifications_mentioned_as_skills": [
+      "Forklift Training",
+      "Forklift Certification"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Department Of Defense",
+      "job_title": "Information Technology Specialist",
+      "employment_type": null,
+      "location": "Barstow, CA",
+      "start_date": "2021-10",
+      "end_date": "2022-12",
+      "is_current": false,
+      "description": "\u00a9 Created new accounts, reset passwords and configured access to servers and file management software for users.\n\u00a2 Built and maintained successful relationships with service providers, vendors, dealers and consumers.\n\n\u00a2 Maintained records, logs and lifecycle documentation of work requests.\n\nReviewed requests for service to resolve IT difficulties, documenting and fielding tickets to improve problem resolution.\n\nMonitored IT use to maintain compliance with established processes, policies and guidelines.\n\nTracked and prioritized IT tickets and requests based on severity and potential business disruptions involved.\ne Maintained working knowledge of current hardware and equipment by completing required training and reading applicable literature.\n\u00a2 Maintained strong call control and quickly worked through scripts to address problems.\n\nDelivered fast, friendly and knowledgeable service for routine questions and service complaints.\nHelped clients navigate online systems within established frameworks to obtain services.",
+      "achievements": [],
+      "skills_mentioned": [
+        "It",
+        "Hardware"
+      ]
+    },
+    {
+      "company_name": "Firstservice Residential",
+      "job_title": "Lead Maintenance Technician",
+      "employment_type": null,
+      "location": "Cliffside Park, NJ",
+      "start_date": "2020-04",
+      "end_date": "2021-07",
+      "is_current": false,
+      "description": "\u00a9 Inspected, replaced and repaired defective parts and completed preventive maintenance.\n\nCreated and assigned work orders, delegated tasks and supervised work.\nOversaw technicians and delegated duties.\n\nMonitored work order completion and worked with other team members on complex projects.\nManeuvered forklift over and around loaded pallets, boxes and other materials.\ne Maintained current forklift training and certification as required by company policies.\n\n\u00a2 Performed troubleshooting and diagnostic procedures on systems and components of forklift models.\nRead and followed schematics and diagrams for mechanical, electrical and hydraulic systems.\nAssessed equipment to determine cause of issue or malfunction and identified appropriate repairs.\n\nExplained technology-related details in easy-to-understand terms to individuals from different backgrounds and in various job positions.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Troubleshooting",
+        "Diagnostic"
+      ]
+    },
+    {
+      "company_name": "United States Navy",
+      "job_title": "Fire Controlman",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2014-02",
+      "end_date": "2019-01",
+      "is_current": false,
+      "description": "e Graduated Boot camp April of 2014\n\u00a9 Promoted to the rank of E-2\n-Lead radar technician\n-Operated and performed maintenance on all missile launch functions\n-Aided senior leadership by generating reports for executive decision-making support\n-Directed and controlled crowds at base functions and organized and recorded facts to prepare incident reports\n-Performed fault isolation radar systems for deployment readiness\n- Volunteered for the United States Honor Guard as team lead\n- I've led over 25 ceremonies for naturalizations resulting in 315 new US citizens\n\u00a9 Mentored over 3k sailor freshly out of boot camp with personnel and clerical duties\ne 2015 promoted to the rank of E-3\ne Barracks Supervisor\n-Led room inspections for cleanliness and uniform inspects\n\u00a9 2015-17 stationed in Virginia Beach for training\n\u00a9 2016 promoted to 3rd class petty officer\n\u00a9 2017 stationed in San Diego C._A",
+      "achievements": [],
+      "skills_mentioned": [
+        "Radar Systems"
+      ]
+    },
+    {
+      "company_name": "Applebee's Neighborhood Grill",
+      "job_title": "Server Support Team Lead",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2012-10",
+      "end_date": "2014-01",
+      "is_current": false,
+      "description": "\u00a2 Supplied accurate course and technique information.\n\u00a9 Maintained detailed records of what customers wanted and ordered, helping to increase profits when those customers returned at later date.\n\u00a9 Provided onsite training.\n\u00a9 Input customer data using Microsoft software and made immediate updates to reflect room changes.\n\u00a9 Provided excellent and professional service to ensure guest satisfaction.\n\u00a9 Processed incoming mail and packages and placed envelopes in bins to be dispersed to personnel in different staffing departments.\n\u00a9 Closed down kitchen after each shift and precisely followed closing checklist for kitchen stations.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Microsoft Software"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "Allatoona High School",
+      "degree_type": "High School",
+      "field_of_study": null,
+      "start_date": null,
+      "graduation_date": "2012-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "Apprentice Technical Training",
+      "degree_type": "Certificate",
+      "field_of_study": "Basic electronics training",
+      "start_date": null,
+      "graduation_date": "2014-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "A- School Electronics and Radar Stud",
+      "degree_type": "Certificate",
+      "field_of_study": "Electronics and Radar fundamentals",
+      "start_date": null,
+      "graduation_date": "2015-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "C-School",
+      "degree_type": "Certificate",
+      "field_of_study": "SPQ-9B Radar Technician",
+      "start_date": null,
+      "graduation_date": "2016-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "C-School",
+      "degree_type": "Certificate",
+      "field_of_study": "Rolling Airframe Missile",
+      "start_date": null,
+      "graduation_date": "2016-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 8.6,
+    "career_level": "Mid",
+    "primary_domain": "Information Technology",
+    "resume_language": "en"
+  }
+}

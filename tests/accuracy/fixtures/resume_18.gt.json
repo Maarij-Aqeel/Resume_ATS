@@ -1,0 +1,270 @@
+{
+  "personal_info": {
+    "full_name": "Karan Kalyan",
+    "email": null,
+    "phone": null,
+    "location": {
+      "city": "San Jose",
+      "state": "CA",
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": "https://linkedin.com/in/karan-kalyan",
+    "github_url": null,
+    "portfolio_url": "https://karankalyan.com",
+    "other_urls": []
+  },
+  "professional_summary": "AI Engineer with expertise in Machine Learning,\nable AI solutions. Passionate about AI research,\nability to develop multimodal models, optimize\nMLOps best practices. PhD candidate in\nTechnology.",
+  "skills": {
+    "technical": [
+      "Deep Learning",
+      "Hugging Face Transformers",
+      "Neural Networks",
+      "PyTorch",
+      "TensorFlow",
+      "Openai Api",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Aws Sagemaker",
+      "Helm",
+      "Prometheus",
+      "Grafana",
+      "Amazon EKS",
+      "Amazon EC2",
+      "Amazon S3",
+      "AWS Lambda",
+      "TypeScript",
+      "Node.js",
+      "Rbac",
+      "Aws Codepipeline",
+      "Codecommit",
+      "Codebuild",
+      "Api Gateway",
+      "Amazon Kinesis",
+      "DynamoDB"
+    ],
+    "soft": [
+      "Automation"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "C++",
+      "Java"
+    ],
+    "tools": [
+      "Datadog"
+    ],
+    "certifications_mentioned_as_skills": [
+      "Aws Certified Solutions",
+      "Kubernetes Certified Administrator (cka)",
+      "Terraform Associate"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Kaiser Permanente",
+      "job_title": "AI Engineer - Machine Learning",
+      "employment_type": null,
+      "location": "Pleasanton, CA",
+      "start_date": "2023-04",
+      "end_date": null,
+      "is_current": true,
+      "description": "\u2022 Developed multimodal language models\nusing Transformers and Diffusion architectures.\n\u2022 Designed and optimized AI model pipelines\nfor scalability and efficiency.\n\u2022 Implemented real-time inference systems\nusing MLOps principles.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Machine Learning",
+        "Hugging Face Transformers",
+        "Deep Learning",
+        "MLOps"
+      ]
+    },
+    {
+      "company_name": "LIXIL",
+      "job_title": "Platform Engineer - AI/ML",
+      "employment_type": null,
+      "location": "New York, NY",
+      "start_date": "2023-10",
+      "end_date": "2024-04",
+      "is_current": false,
+      "description": "\u2022 Designed high-performance ML\noptimizing GPU/CPU workloads.\n\u2022 Automated cloud resource provisioning with\nTerraform and Kubernetes, reducing setup time\nby 30%.\n\u2022 Integrated Dockerized ML workflows into\nhigh-performance computing (HPC) clusters.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Machine Learning",
+        "Terraform",
+        "Kubernetes",
+        "Docker"
+      ]
+    },
+    {
+      "company_name": "Savvas Learning Company",
+      "job_title": "AWS Cloud Engineer",
+      "employment_type": null,
+      "location": "Arizona, USA",
+      "start_date": "2022-10",
+      "end_date": "2023-09",
+      "is_current": false,
+      "description": "\u2022 Designed and deployed scalable EKS clusters\nwith Kubernetes auto-scaling and rolling up-\ndates.\n\u2022 Implemented RBAC security policies and\noptimized Kubernetes workload isolation.\n\u2022 Developed AWS CDK and Helm charts for\nstreamlined cloud deployments.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Amazon Web Services",
+        "Amazon EKS",
+        "Kubernetes",
+        "Rbac",
+        "Helm",
+        "Aws Cdk"
+      ]
+    },
+    {
+      "company_name": "Nomi Health",
+      "job_title": "AWS Infrastructure Engineer",
+      "employment_type": null,
+      "location": "Austin, TX",
+      "start_date": "2021-05",
+      "end_date": "2022-09",
+      "is_current": false,
+      "description": "\u2022 Built and maintained CI/CD pipelines using\nAWS CodePipeline, CodeCommit, and CodeBuild.\n\u2022 Integrated serverless AWS Lambda\nwith API Gateway.\n\u2022 Developed Terraform modules for\nprovisioning of AWS resources.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Amazon Web Services",
+        "CI/CD",
+        "Aws Codepipeline",
+        "Codecommit",
+        "Codebuild",
+        "AWS Lambda",
+        "Api Gateway",
+        "Terraform"
+      ]
+    },
+    {
+      "company_name": "KLA",
+      "job_title": "Site Reliability Engineer",
+      "employment_type": null,
+      "location": "Milpitas, CA",
+      "start_date": "2020-08",
+      "end_date": "2021-04",
+      "is_current": false,
+      "description": "\u2022 Defined and implemented SLOs and SLIs for\nfor system reliability.\n\u2022 Developed monitoring solutions using\nGrafana, and Datadog.\n\u2022 Designed and maintained AWS disaster\nsolutions with multi-region backups.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Grafana",
+        "Datadog",
+        "Amazon Web Services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "University of the Cumberlands",
+      "degree_type": "PhD",
+      "field_of_study": "Technology",
+      "start_date": "2024-01",
+      "graduation_date": "2027-01",
+      "is_ongoing": true,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "California State University, Fresno",
+      "degree_type": "Master",
+      "field_of_study": "Data Science and Machine Learning",
+      "start_date": "2018-01",
+      "graduation_date": "2020-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "UBDT College of Engineering, Davangere",
+      "degree_type": "Bachelor",
+      "field_of_study": "Computer Science",
+      "start_date": "2013-01",
+      "graduation_date": "2017-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect -",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Kubernetes Certified Administrator (CKA)",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Terraform Associate",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI-Driven Cybersecurity System",
+      "description": "Developed a machine learning-based threat\ndetection system using TensorFlow and AWS\nSageMaker.\nAchieved real-time network intrusion\nby training deep learning models.",
+      "technologies": [
+        "TensorFlow",
+        "Aws Sagemaker"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Serverless IoT Data Pipeline",
+      "description": "Designed an IoT data pipeline using AWS\nLambda, Kinesis, DynamoDB, and S3.\nEnabled real-time sensor data ingestion with\nfully serverless deployment.",
+      "technologies": [
+        "AWS Lambda",
+        "Amazon Kinesis",
+        "DynamoDB",
+        "Amazon S3"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "languages_spoken": [],
+  "awards": [
+    {
+      "title": "Recognized as Infrastructure as Code\nWizard at Nomi Health for excellence in cloud\nautomation.",
+      "issuer": null,
+      "date": null,
+      "description": null
+    },
+    {
+      "title": "Finalist, TechX Hackathon 2021",
+      "issuer": null,
+      "date": null,
+      "description": "Built an\nan AI-powered chatbot for healthcare automation."
+    }
+  ],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 6.5,
+    "career_level": "Mid",
+    "primary_domain": "Machine Learning",
+    "resume_language": "en"
+  }
+}

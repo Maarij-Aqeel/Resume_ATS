@@ -1,0 +1,202 @@
+{
+  "personal_info": {
+    "full_name": "JESSICA\nCLAIRE",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": "9 100 Montgomery St. 10th\nFloor"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Productive Historian with excellent problem-solving and time management skills. Teach students\nfunda mentals of social studies, including human geography and cultural awareness. Organized and\nefficient with maintaining student records and completing progress reports. Ready to apply historical\nand public heritage expertise to dynamic new position.",
+  "skills": {
+    "technical": [
+      "Providing Feedback",
+      "Multimedia Presentations",
+      "Active Listening",
+      "Social Sciences",
+      "Higher Education",
+      "Instructional Strategies",
+      "Library Resources",
+      "Complex Problem-solving",
+      "Support Networks",
+      "Committee Leadership",
+      "Virtual Classrooms",
+      "Teaching And Instruction",
+      "Cultural Awareness",
+      "Effective Written And Verbal Communication",
+      "Individual Education Plan Expertise",
+      "Federal Guidelines",
+      "Multimedia Integration",
+      "Informative Lectures",
+      "Collections Understanding",
+      "Clerical Support",
+      "Interactive Media",
+      "Current Events",
+      "Google Drive",
+      "Social And Academic Development",
+      "Office Meetings",
+      "Program Operations",
+      "Office Supplies And Inventory",
+      "Learning Modalities",
+      "Providing Resources",
+      "Client Satisfaction",
+      "Distance Learning",
+      "Document Coordination",
+      "Google Slides",
+      "Different Learning Styles",
+      "Educational Settings",
+      "Instructional Techniques",
+      "Daily Facility Operations",
+      "Virtual Communities",
+      "Individual Mentoring",
+      "Conflict Management"
+    ],
+    "soft": [],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": [
+      "Social Studies",
+      "Life Coach Certification",
+      "Academic Coach Certification"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Bremen High School District 228",
+      "job_title": "Social Science Teacher",
+      "employment_type": null,
+      "location": "Midlothian, IL",
+      "start_date": "2021-08",
+      "end_date": null,
+      "is_current": true,
+      "description": "Maintained awareness of relevant current events and quickly incorporated study into curriculum.\nEducated students regarding national and global social issues and influencing factors.\nResearched latest teaching techniques and incorporated into lesson delivery to improve concept\nacquisition.\n\nUsed computers, audio-visual aids and other equipment to supplement presentations.\n\nMet or exceeded course and student performance goals.\n\nDiscussed important historical figures, dates and events which helped shape modern world.\nPlanned learning activities that provided students with opportunities to observe, question and\ninvestigate social studies topics.\n\nUtilized curriculum which reflected diverse educational, cultural and linguistic background of\nstudent body.\n\nEstablished and supported positive educational environment for student learning.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Universal Health Services",
+      "job_title": "Social Science Teacher",
+      "employment_type": null,
+      "location": "Spokane, WA",
+      "start_date": "2006-08",
+      "end_date": "2021-08",
+      "is_current": false,
+      "description": "Maintained awareness of relevant current events and quickly incorporated study into curriculum.\nEducated students regarding national and global social issues and influencing factors.\nResearched latest teaching techniques and incorporated into lesson delivery to improve concept\nacquisition.\n\nUsed computers, audio-visual aids and other equipment to supplement presentations.\n\nMet or exceeded course and student performance goals.\n\nDiscussed important historical figures, dates and events which helped shape modern world.\nPlanned learning activities that provided students with opportunities to observe, question and\ninvestigate social studies topics.\n\nUtilized curriculum which reflected diverse educational, cultural and linguistic background of\n\nstudent body.\nDevised lesson plans reflecting student educational, cultural and language diversity.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Lake Tobias Wildlife Park",
+      "job_title": "Animal Education Manager",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2000-05",
+      "end_date": "2007-09",
+      "is_current": false,
+      "description": "Evaluated success of training programs and recommended improvements to upper management to\nenhance effectiveness.\n\nReviewed and edited all training materials for accuracy and company policy compliance.\nManaged new employee orientation training process for more than Number employees each year.\nOrganized and edited training manuals, multimedia visual aids and other educational materials.\nDirected field training to enhance participants\u2019 skills.\n\nLed daily, weekly and monthly coaching, counseling and feedback sessions.\n\nTrained new hires to perform cross-training exercises with experienced workers.\n\nConducted orientation sessions and organized on-the-job training for new hires.\n\nCommunicated all learning and performance objectives, schedules and training assessments to\nupper management.\n\nImplemented new learning strategies depending upon employees\u2019 skill levels.\n\nWorked flexible hours across night, weekend and holiday shifts.\n\nDeveloped and maintained courteous and effective working relationships.\n\nMaintained energy and enthusiasm in fast-paced environment.\n\nIdentified issues, analyzed information and provided solutions to problems.\n\nLearned new skills and applied to daily tasks to improve efficiency and productivity.\n\nHandled specimens and conducted tests according to established protocols, keeping efficient\nrecords on all experiments.\n\nImproved operations through consistent hard work and dedication.\n\nParticipated in continuous improvement by generating suggestions, engaging in problem-solving\nactivities to support teamwork.",
+      "achievements": [],
+      "skills_mentioned": []
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "American Coaching Academy",
+      "degree_type": "Certificate",
+      "field_of_study": "Life And Academic\nCoaching",
+      "start_date": null,
+      "graduation_date": "2020-04",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "The Pennsylvania State\nUniversity - Capital Campus",
+      "degree_type": "Master",
+      "field_of_study": "Business: American\nStudies",
+      "start_date": null,
+      "graduation_date": "2013-12",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": [
+        "Completed professional\ndevelopment in Museum\nStudies and Public Heritage"
+      ]
+    },
+    {
+      "institution_name": "Bucknell University",
+      "degree_type": "Bachelor",
+      "field_of_study": "American\nHistory",
+      "start_date": null,
+      "graduation_date": "2006-05",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": "Bucknell University",
+      "degree_type": "Certificate",
+      "field_of_study": "Social\nSciences Education",
+      "start_date": null,
+      "graduation_date": "2006-05",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Social Studies, 7-12\nCertification",
+      "issuing_organization": "Pennsylvania",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Life Coach Certification",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Academic Coach Certification",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "languages_spoken": [
+    {
+      "language": "Spanish",
+      "proficiency": null
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 27.1,
+    "career_level": "Mid",
+    "primary_domain": "Teaching",
+    "resume_language": "en"
+  }
+}

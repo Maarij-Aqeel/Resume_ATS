@@ -1,0 +1,96 @@
+{
+  "personal_info": {
+    "full_name": null,
+    "email": null,
+    "phone": "+16175951701",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": null,
+      "full_address": "397 Quimby Drive, Boston, MA 02109"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": [
+      "your facebook",
+      "your instagram"
+    ]
+  },
+  "professional_summary": "Senior Recruiter with 8+ years of experience in sourcing and hiring top talent\nfor Fortune 500 and other diverse industry organizations. Skilled in full-cycle\nrecruiting, key accounts management, and high-volume recruiting through\nrobust recruiting strategies, social media networking, and event/career fair\norganization.",
+  "skills": {
+    "technical": [
+      "Recruiting Life Cycle",
+      "Talent Acquisition",
+      "Ats Software",
+      "Salesforce",
+      "Boolean Search",
+      "Succession Planning"
+    ],
+    "soft": [
+      "Time Management",
+      "Account Management"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": [
+      "Diversity & Inclusion"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Creative Staffing Agency",
+      "job_title": "Senior Recruiter",
+      "employment_type": null,
+      "location": "Boston, MA",
+      "start_date": "2018-02",
+      "end_date": null,
+      "is_current": true,
+      "description": "e Deliver recruiting expertise and seamless support to high-profile,\ndiverse industry clients in acquiring top talent\n\n\u00ab Lead the full recruitment life-cycle, from sourcing strategies, talent\nrecruitment, and acquisition to interview preparation, offer\nnegotiation, and on-boarding\n\ne Manage 10 key company accounts, recruiting 60+ permanent and\ncontract staff on a monthly basis\n\ne Increase hiring in niche areas through networking and recruitment\nactivities",
+      "achievements": [],
+      "skills_mentioned": [
+        "Recruiting"
+      ]
+    },
+    {
+      "company_name": "Heidrick",
+      "job_title": "Recruiter",
+      "employment_type": null,
+      "location": "Boston, MA",
+      "start_date": "2012-05",
+      "end_date": "2018-02",
+      "is_current": false,
+      "description": "* Led high-volume recruitment efforts across five states to source and\nrecruit potential candidates for Fortune 500 companies\n\ne Increased offer-to-sales ratio and candidate pipeline 47% by effectively\nusing recruitment platforms and resources, including social media, ATS,\nBoolean searches, networking, and referrals\n\ne Successfully filled over 330 permanent and 90 contract positions for a\nkey client, with savings in permanent placement fees in excess of\n$500,000\n\ne Drove performance improvements and profitability increases in\ntargeted accounts within the company\u2019s portfolio",
+      "achievements": [],
+      "skills_mentioned": [
+        "Recruitment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "River Brick University",
+      "degree_type": "Bachelor",
+      "field_of_study": "Human Resources",
+      "start_date": "2007-01",
+      "graduation_date": "2011-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 14.0,
+    "career_level": "Senior",
+    "primary_domain": "Recruiting",
+    "resume_language": "en"
+  }
+}

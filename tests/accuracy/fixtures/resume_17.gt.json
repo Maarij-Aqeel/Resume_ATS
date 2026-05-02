@@ -1,0 +1,359 @@
+{
+  "personal_info": {
+    "full_name": "Abdel Anaflous",
+    "email": "abdellatif@anaflous.com",
+    "phone": "+44 *************",
+    "location": {
+      "city": "London Area",
+      "state": null,
+      "country": "United Kingdom",
+      "full_address": null
+    },
+    "linkedin_url": "https://linkedin.com/in/abdellatif-anaflous",
+    "github_url": "https://github.com/hktitof",
+    "portfolio_url": "https://www.anaflous.com",
+    "other_urls": [
+      "youtube.com/@abdellatif_anaflous"
+    ]
+  },
+  "professional_summary": "A Lead Full Stack Software Engineer with a strong problem- solving aptitude and +7 years of experience creating exceptional Matrix digital experiences across diverse industries. I specialize in architecting and leading both front-end and back-end development for high-visibility projects, leveraging modern Vision cloud technologies and AI-driven solutions built using",
+  "skills": {
+    "technical": [
+      "TypeScript",
+      "JavaScript",
+      "Solidity",
+      "SQL",
+      "Java",
+      "XML",
+      "Xml Schema",
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "HTML",
+      "Framer Motion",
+      "Storybook",
+      "Node.js",
+      "Smart Contracts",
+      "Hardhat",
+      "Moralis",
+      "Web3",
+      "Ether.js",
+      "Git",
+      "GitHub",
+      "MySQL",
+      "Amazon Web Services",
+      "Google Cloud Platform",
+      "Vercel",
+      "Netlify",
+      "Javafx",
+      "REST",
+      "Apis",
+      "GraphQL",
+      "Dapps",
+      "Dbms",
+      "Uml",
+      "Data Structures",
+      "Object-Oriented Programming",
+      "Cisco Ios Commands",
+      "Object Databases",
+      "Apache HTTP Server",
+      "Linux Commands",
+      "Network Programming",
+      "Slack",
+      "Jira",
+      "Agile",
+      "Scrum",
+      "PHP",
+      "DNS"
+    ],
+    "soft": [
+      "Problem Solving",
+      "Project Management",
+      "Time Management",
+      "Critical Thinking",
+      "Attention to Detail",
+      "Analysis",
+      "Brainstorming",
+      "Decision-making",
+      "Conceptualization",
+      "Communication",
+      "Interpersonal Skills"
+    ],
+    "languages": [],
+    "tools": [
+      "Xdebug",
+      "W3 Total Cache",
+      "Wordfence",
+      "Google Analytics",
+      "Veeam Endpoint Backup",
+      "Sql Server 2012",
+      "Wp-cli"
+    ],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "Energy Institute",
+      "job_title": "Front End",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2025-02",
+      "end_date": "2025-02",
+      "is_current": true,
+      "description": "the development of the world-renowned Statistical Review of World 2025 by Energy Institute, architecting its user-facing data visualizations and its Azure DevOps lifecycle, while concurrently leading the Powerful project and integrating key enterprise solutions like SSO within Squiz CMS, alongside pioneering AI-driven automation",
+      "achievements": [],
+      "skills_mentioned": [
+        "Azure DevOps",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "company_name": "Vision",
+      "job_title": "Full Stack Engineer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2023-09",
+      "end_date": "2023-12",
+      "is_current": false,
+      "description": "I led the development of NameWrapper, resulting in a $2M investment. I front-end components with ReactJS and Next.js, handled backend tasks API Router, and integrated MongoDB for smart contract data. I also interactivity, performance, and gained experience with Ethereum Name (ENS)",
+      "achievements": [],
+      "skills_mentioned": [
+        "React",
+        "Next.js",
+        "MongoDB",
+        "Smart Contract"
+      ]
+    },
+    {
+      "company_name": null,
+      "job_title": "Full Stack Software Engineer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2022-01",
+      "end_date": "2022-09",
+      "is_current": false,
+      "description": "the development of a new user workflow system for an NFT marketplace, transaction speed by 30% and enhancing user engagement. Worked with developers to optimize system performance using modern web contributing to a successful product launch.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "YPredict",
+      "job_title": "Full Stack Engineer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2022-10",
+      "end_date": "2022-12",
+      "is_current": false,
+      "description": "the development of an ERC20 token project using Next.js for the front end and Lambda for serverless computing. Developed smart contracts with Solidity integrated MongoDB for data management, focusing on SEO and tracking with Google Analytics. Achieved a successful private sale that sold out 24 hours. The project is publicly available on my GitHub.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Next.js",
+        "AWS Lambda",
+        "Smart Contracts",
+        "Solidity",
+        "MongoDB",
+        "SEO",
+        "Google Analytics"
+      ]
+    },
+    {
+      "company_name": null,
+      "job_title": "Full Stack Engineer - Blockchain",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2022-01",
+      "end_date": "2022-09",
+      "is_current": false,
+      "description": "the development of NFT Marketplace v2 for FeverTokens, ensuring top-quality Worked with six developers to build a temporary NFT platform for using Next.js, Ether.js, Tailwind CSS, AWS Lambda, and Hardhat. The earned Binance's recognition, securing a $1M investment.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Next.js",
+        "Ether.js",
+        "Tailwind CSS",
+        "AWS Lambda",
+        "Hardhat"
+      ]
+    },
+    {
+      "company_name": "of Hertfordshire",
+      "job_title": "Support Technician",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2025-02",
+      "end_date": "2025-09",
+      "is_current": false,
+      "description": "part of the IT department, delivered effective IT solutions by troubleshooting problems and enhancing user support for critical systems (Wi- Canvas, email). Proactively suggested improvements, including an AI assistant new student support methods",
+      "achievements": [],
+      "skills_mentioned": [
+        "It",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "company_name": "Java",
+      "job_title": "Engineer @ IdealFresh",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2021-01",
+      "end_date": "2021-08",
+      "is_current": false,
+      "description": "a desktop application for IdealFresh to manage billing and client data Java, JavaFX, and Oracle. Used Apache POI for Excel data handling and scripts for cloud file management. Integrated APIs for seamless data streamlining workflows and enhancing functionality. Collaborated with non-developers to provide tailored technical solutions.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Java",
+        "Javafx",
+        "Oracle Database",
+        "Apache Poi",
+        "Apis"
+      ]
+    },
+    {
+      "company_name": null,
+      "job_title": "Stack Engineer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2020-06",
+      "end_date": "2020-12",
+      "is_current": false,
+      "description": "and developed a customizable static web application using ReactJS, CSS v1, and TypeScript. Enhanced SEO and performance by migrating to with server-side rendering, resulting in faster load times and improved Provided technical support for web applications and transformed a PHP into a high-performance static site on Next.js, significantly reducing page times and improving Google Lighthouse scores.",
+      "achievements": [],
+      "skills_mentioned": [
+        "React",
+        "CSS",
+        "TypeScript",
+        "SEO",
+        "PHP",
+        "Next.js"
+      ]
+    },
+    {
+      "company_name": "Agro Management",
+      "job_title": "Stack Web Developer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2019-05",
+      "end_date": "2019-10",
+      "is_current": false,
+      "description": "a responsive, customizable website using HTML, CSS, JavaScript, and Managed WordPress backend with Oracle Database, utilizing WP-CLI, and custom plugins. Optimized performance with W3 Total Cache, security via Wordfence, and monitored site metrics using Google Conducted SEO optimizations and troubleshooting with Xdebug to high performance and user engagement.",
+      "achievements": [],
+      "skills_mentioned": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WordPress",
+        "Oracle Database",
+        "Wp-cli",
+        "W3 Total Cache",
+        "Wordfence",
+        "Google",
+        "SEO",
+        "Xdebug"
+      ]
+    },
+    {
+      "company_name": "Windows Server",
+      "job_title": "Manager @ SME",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2018-02",
+      "end_date": "2018-09",
+      "is_current": false,
+      "description": "installation, configuration, and support of Windows services (Active Directory, DHCP, WINS). Managed the migration from Windows Server 2008 to 2012 and handled backups with Veeam Endpoint Backup and SQL Server 2012, ensuring security and system reliability",
+      "achievements": [],
+      "skills_mentioned": [
+        "Windows",
+        "Active Directory",
+        "DHCP",
+        "Wins",
+        "Windows Server 2008",
+        "Windows Server 2012",
+        "Veeam Endpoint Backup",
+        "Sql Server 2012"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "University of Hertfordshire",
+      "degree_type": "Master",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "graduation_date": "2024-09",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": "Distinction",
+      "activities": []
+    },
+    {
+      "institution_name": "Private University of Marrakech",
+      "degree_type": "Bachelor",
+      "field_of_study": "Software Engineer",
+      "start_date": null,
+      "graduation_date": "2022-07",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": "2:1",
+      "activities": []
+    },
+    {
+      "institution_name": "Al Maarifa",
+      "degree_type": "High School",
+      "field_of_study": "Physics Science",
+      "start_date": null,
+      "graduation_date": "2017-07",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": "2:1",
+      "activities": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Project Management Professional Certificate",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Decentralized Finance (DeFi)",
+      "issuing_organization": "Duke University",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "languages_spoken": [
+    {
+      "language": "English",
+      "proficiency": null
+    },
+    {
+      "language": "French",
+      "proficiency": null
+    },
+    {
+      "language": "Arabic",
+      "proficiency": null
+    },
+    {
+      "language": "Berber",
+      "proficiency": null
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 4.4,
+    "career_level": "Lead",
+    "primary_domain": "Software Development",
+    "resume_language": "en"
+  }
+}

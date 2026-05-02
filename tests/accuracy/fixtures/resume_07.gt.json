@@ -1,0 +1,144 @@
+{
+  "personal_info": {
+    "full_name": "JESSICA CLAIRE",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": null,
+      "full_address": "Montgomery Street, San Francisco, CA 9XXX5"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Proactive and solutions-focused hands-on technical leader and Program Manager, with clear understanding of cloud computing services, as\nwell as software development and deployment architecture, who thrives in a fast paced, dynamic environment. Provides strong technical\ndirection and strategy development to Agile and DevOps teams across development unit. Responsible for managing large cross-organizational\nstrategic programs and driving delivery aligned with strategic business goals. Strong track record for delivery on technical programs, projects\nand products in a highly technical, dispersed multi-team environment. A creative, demonstrated leader with superior analytical abilities and\nexcellent technical, problem solving and cross-team coordination skills, with ability to remove ambiguity, manage dependencies,\ncommunicate effectively, and dive deep into technical details is essential. Possess proven ability to communicate across all management\nlayers, and clearly and concisely communicate at an executive level on key issues, dependencies and executive action required. Holds PMP\nand Scrum certification.",
+  "skills": {
+    "technical": [
+      "Sdlc Methodologies",
+      "Agile",
+      "Waterfall",
+      "DevOps",
+      "Cots Implementation",
+      "Conversion",
+      "Migration",
+      "Data Visualization",
+      "Cloud Computing",
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "It Security",
+      "It Regulatory Compliance",
+      "Policies And Procedure",
+      "Financial Management Skills",
+      "Analytical Skills"
+    ],
+    "soft": [
+      "Conflict And Risk Management",
+      "Initiative",
+      "Project / Program Management",
+      "Change Management",
+      "Technical Leadership",
+      "Presentation Skills",
+      "Collaboration",
+      "Negotiation Skills",
+      "Problem Solving",
+      "Customer Communication",
+      "Organizational Skills",
+      "Decision Making"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": [
+      "PMP",
+      "Scrum"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Mantech International Corporation",
+      "job_title": "Senior Information Technology Project Manager",
+      "employment_type": null,
+      "location": "Crane, IN",
+      "start_date": "2016-11",
+      "end_date": null,
+      "is_current": true,
+      "description": "\u00a9 Provided management and program oversight on IT infrastructure and security projects to support G&A and\nBusiness Units developing, implementing, marketing, and supporting strategic goals.\n\u00a9 Directed security implementation of the Network Access Control solution that identifies and ensured the security\nposture of 30,000+ networked devices.\nImplemented Data Loss Prevention capabilities for 10,000 endpoint devices and 6,000 email accounts.\n\u00ab Executed IT business continuity and disaster recovery plans for infrastructure environments hosting RTI systems\nand data.\nSuccessfully managed datacenter relocation moving infrastructure to an off-site location.\n\nProvided Finance program management Implementing an internal machine-learning application that connects\npeople, publications, clients, and proposals by utilizing structured RTI data and a Pinterest-like user interface to\neasily locate important data successfully improving customer satisfaction.\n\nEstablished a proposal tool using Artificial Intelligence (AI) and Immersive Technology to enable proposal writers\u2019\naccess to historical proposals to support the business development and proposal process.\n\nDeveloped a revenue prediction application leveraging analytics and statistical data modeling to provide real-time\nrevenue forecasting from backlog, pipeline and award data to generate insights that are easily accessible.\n\nCreated and facilitated communication channels through organization for projects and operations building\nrelationships across the organization through project-based activities.\n\nSupported data, cyber security, and IT regulatory compliance initiatives, managing quality assurance program,\nincluding on-site evaluations, internal audits and customer surveys.\nWrote and implemented new rework procedures to standardize processes and streamline workflow, updating and\n\ncreating policy and procedures around IT security and data integrity.\nMentored quality control personnel ensuring adherence to SOP and work instructions.\nPartnered with procurement in the sourcing of vendors to provide security infrastructure solutions overseeing\n\ncontract development and execution with vendor.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Security",
+        "It Infrastructure",
+        "Cybersecurity",
+        "Data Integrity"
+      ]
+    },
+    {
+      "company_name": "Hesc",
+      "job_title": "Director, Project Delivery",
+      "employment_type": null,
+      "location": "Greeley, CO",
+      "start_date": "2010-07",
+      "end_date": "2016-10",
+      "is_current": false,
+      "description": "\u00a9 Managed project oversight of multimillion-dollar implementations of licensing and regulatory COTS solutions for\ngovernment agencies to provide licensing regulatory software.\n\n\u00a2 Lead large cross-functional teams; establishing new processes to ensure adherence to all PM and BA\nmethodologies.\n\n\u00a9 Supported Sales team with business development, proposals and contracting to new opportunities.\n\n\u00a9 Provided 1st level of customer escalation\n\n\u00a9 Managed program financials including P&L and budget.\n\n\u00a9 Provided leadership to staff of 32, Project Managers, Business Analyst and QA personnel, defining project roles\nand responsibilities,and improve communication among functional areas and global teams.\n\n\u00a2 Partnered with HR and Talent Management to define position profiles, job postings and interviewing\nmethodologies and best practices\n\n\u00a2 Responsible for building delivery teams; recruiting, developing and mentoring project staff.\n\n\u00ab Key contributor to develop and implement Project Management Office Developed best practices, techniques, and\ntools for project planning, execution, project management, ongoing mileClaire/deliverable tracking,\ncommunication, and key performance metrics.\n\n\u00a9 Project managed and implemented web-based application solutions for MicroPact's product offerings \u2014 Versa,\nCAVU and Entellitrak.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Nortel Networks",
+      "job_title": "Various Technical Management Positions",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2000-08",
+      "end_date": "2010-03",
+      "is_current": false,
+      "description": "\u00a9 Unified Communication (UC) Program Manager (2007 \u2014 2010)\n\u00a9 Information Systems (IS) Program Management & Business Operations Manager (2006-2007)\n\u00a2 Professional Services Manager, S/W Development and Project Management (2001 \u2014 2006)\n\u00a9 Product Manager for a Joint Venture with ARRIS (2000-2001)",
+      "achievements": [],
+      "skills_mentioned": []
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "University of New Brunswick",
+      "degree_type": "Bachelor",
+      "field_of_study": "Electrical Engineering",
+      "start_date": null,
+      "graduation_date": null,
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Project Management Professional (PMP)",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Scrum Master (CSM)",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 25.3,
+    "career_level": "Senior",
+    "primary_domain": "Information Technology",
+    "resume_language": "en"
+  }
+}

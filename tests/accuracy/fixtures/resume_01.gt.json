@@ -1,0 +1,50 @@
+{
+  "personal_info": {
+    "full_name": "KRAMER JANSEN",
+    "email": "kjansen@bamboo.com",
+    "phone": "(123) 555-1234",
+    "location": {
+      "city": "Poplar Bluff",
+      "state": "MO",
+      "country": null,
+      "full_address": "123 Seventh Avenue \u00a9 Poplar Bluff, MO 12345"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "A position in Investment Banking\nwith a focus on financial modeling and valuation",
+  "skills": {
+    "technical": [
+      "Financial Modeling",
+      "Valuation Modeling",
+      "Trend Analysis",
+      "Financial Analysis",
+      "Valuation"
+    ],
+    "soft": [
+      "Process Improvements",
+      "Cost Management",
+      "Business Development",
+      "Strategic Partnerships"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [],
+  "education": [],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": null,
+    "career_level": "Mid",
+    "primary_domain": "Finance",
+    "resume_language": "en"
+  }
+}

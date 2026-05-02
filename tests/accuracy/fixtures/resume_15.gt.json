@@ -1,0 +1,508 @@
+{
+  "personal_info": {
+    "full_name": "Muhammad",
+    "email": "m.g.jillani123@gmail.com",
+    "phone": "+923211174167",
+    "location": {
+      "city": "New York",
+      "state": "United States",
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": [
+      "Kaggle",
+      "GitHub",
+      "Medium"
+    ]
+  },
+  "professional_summary": "Senior Data Scientist and Machine Learning Engineer specializing in\nof transforming SaaS and PaaS platforms through innovative\nstreamlining data pipelines, and building scalable AI architectures to\nVoice, Top 100 Global Kaggle Master, and KaggleX BIPOC Mentor,\nand AWS AI Community. Demonstrated leadership in AI-driven product\nresults with cutting-edge technologies across industries.",
+  "skills": {
+    "technical": [
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "Streamlit",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Plotly",
+      "Seaborn",
+      "SQL",
+      "Nosql",
+      "Vector Databases",
+      "Pinecone",
+      "FAISS",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "Large Language Models",
+      "Time Series Analysis",
+      "Model Deployment",
+      "Prompt Engineering",
+      "LangChain",
+      "Retrieval-Augmented Generation",
+      "Retrieval-augmented",
+      "Langsmith",
+      "Automl",
+      "MLOps",
+      "Llmops",
+      "AIOps",
+      "Cloud Machine Learning",
+      "MLflow",
+      "Amazon Web Services",
+      "Amazon SageMaker",
+      "AWS Lambda",
+      "Bedrock",
+      "Amazon EC2",
+      "Microsoft Azure",
+      "Azure Ai",
+      "App Services",
+      "Google Cloud Platform",
+      "Vertex Ai",
+      "Google Cloud Functions",
+      "Heroku",
+      "BigQuery",
+      "Google Cloud Run",
+      "PyTorch",
+      "NLTK",
+      "Hugging Face Transformers",
+      "OpenCV",
+      "FastAPI",
+      "Flask",
+      "Openai Api",
+      "REST API",
+      "GraphQL",
+      "Neo4j",
+      "Docker",
+      "GitHub Actions",
+      "CI/CD",
+      "Chroma Db",
+      "GPT",
+      "Gemini",
+      "Llama",
+      "Falcon",
+      "Deepseek",
+      "Natural Language Processing",
+      "LlamaIndex",
+      "Langgraph",
+      "Phidata",
+      "Langserver",
+      "Autogen",
+      "Statistical Analysis",
+      "Big Data Technologies",
+      "Data Visualization",
+      "Zenml"
+    ],
+    "soft": [
+      "Agile Methodologies",
+      "Microservices Architecture",
+      "Business Analysis",
+      "Business Intelligence",
+      "Technical Writing",
+      "Effective Communication",
+      "Stakeholder Engagement",
+      "Team Collaboration",
+      "Product Management",
+      "Team Leadership",
+      "Stakeholder Management"
+    ],
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "tools": [],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "PURELOGICS",
+      "job_title": "Senior Data Scientist Machine Learning & Gen AI Engineer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_current": true,
+      "description": "Led AI-Driven MVPs & Enterprise Deployments: \u2022 Spearheaded\nHealth Guard AI Pipeline for Remote Patient Monitoring, a GPT-4o-Based\nAdvisory, leveraging Generative AI, RAG, and Autonomous AI Agents.\nScalable AI & Cloud Solutions: Designed, deployed, and optimized \u2022\nand GCP (Vertex AI, BigQuery, Cloud Run), ensuring high availability,\nAdvanced Multi-Agentic AI Architectures: Engineered multi-agent \u2022\nDBs to enhance automation, decision-making, and autonomous\nLeadership & Strategic Execution: Led cross-functional teams, \u2022\nMLOps pipelines, and ensuring seamless model lifecycle\nMentorship & Innovation: Mentored AI/ML teams, fostering \u2022\nand AI-powered automation, while driving continuous innovation in\n\u2022 Key Achievements: Successfully delivered scalable,\ndeployment cycles, and enhancing efficiency, automation, and\nintelligence.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Generative AI",
+        "Retrieval-Augmented Generation",
+        "Gpt-4o",
+        "Vertex Ai",
+        "BigQuery",
+        "Google Cloud Run",
+        "LangChain",
+        "Langgraph",
+        "Phidata",
+        "Pinecone",
+        "Graph",
+        "Llmops"
+      ]
+    },
+    {
+      "company_name": "NVIDIA",
+      "job_title": "Senior Data Scientist Machine Learning & Gen AI Engineer",
+      "employment_type": null,
+      "location": "California, United States",
+      "start_date": "2024-08",
+      "end_date": null,
+      "is_current": true,
+      "description": "NVIDIA & Z by HP Developer Programs: \u2022 Active member contributing\nsolutions on NVIDIA AI Studio and Z by HP platforms.\nLLM Contributions: \u2022 Developed and tested open-source and\nSpecialized SDK Integration: \u2022 Leveraged cutting-edge NVIDIA tools and\nCollaborative Expertise: \u2022 Worked closely with NVIDIA and Z by HP teams\nCommunity Contributions: \u2022 Actively contributed to open-source LLM\nprojects, driving innovation in Generative AI and large-scale deployments.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Generative AI",
+        "Large Language Models"
+      ]
+    },
+    {
+      "company_name": "BLOCBELT",
+      "job_title": "Senior Data Scientist & Machine Learning Engineer",
+      "employment_type": null,
+      "location": "Maryland, United States",
+      "start_date": "2022-12",
+      "end_date": "2024-12",
+      "is_current": false,
+      "description": "Strategic AI Leadership & Team Management: \u2022 Led the development\nof AI-driven SaaS and PaaS solutions, managing a team of three, with a\nfocus on Big Data, Data Analysis, and AI Engineering. This initiative\noperational efficiency, resulting in $2M in cost savings for clients.\nSales Forecasting & Market Analysis: \u2022 Improved sales forecasting\nby 80-90% through data analysis across 120+ market entities, leading\nto actionable growth strategies and enhanced sales workflows.\nE-Commerce Platform Innovation & Sales Growth: \u2022 Successfully\na client-focused personalized fashion e-commerce platform featuring\nan advanced recommendation engine. This initiative led to an 80%\nin sales and a 200% surge in online orders, surpassing project goals by\nthree months ahead of schedule.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Big Data",
+        "Ai Engineering"
+      ]
+    },
+    {
+      "company_name": "GOOGLE-KAGGLE",
+      "job_title": "AI Data Scientist Kaggle Master Mentor",
+      "employment_type": "part-time",
+      "location": "San Francisco, USA",
+      "start_date": "2022-12",
+      "end_date": "2024-11",
+      "is_current": false,
+      "description": "Championed \u2022 mentorship initiatives through the Kaggle-X BIPOC\nProgram, dedicating 20 hours weekly to guiding aspiring data\nscientists in technical skill development and community contributions.\nSecured \u2022 a position among the Top 100 Kaggle contributors globally,\nas the first Pakistani mentor in the program.\nLed \u2022 a team of four mentees, enhancing their skills in data science, machine\nlearning, and real-world problem-solving.\nDrove \u2022 innovation by collaborating on high-impact AI projects and actively\ncontributing to the global data science community.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Data Science",
+        "Machine Learning"
+      ]
+    },
+    {
+      "company_name": "Crypto-Express",
+      "job_title": "Data Scientist",
+      "employment_type": null,
+      "location": "Thailand",
+      "start_date": "2022-01",
+      "end_date": "2022-12",
+      "is_current": false,
+      "description": "\u2022 Developed an Anti-spoofing Face-App, enhancing digital identity security and\nreducing identity fraud by 70%.\n\u2022 Applied AI and ML techniques to solve industry-critical issues, improving\nefficiency by 25% and reducing operational costs by 15%.\n\u2022 Engineered predictive models and provided actionable insights, leading\nto a 20% revenue increase through data-driven decision-making.\n\u2022 Advanced expertise in EDA, Machine Learning, and Deep Learning, saving\nover 250+ hours of manual analysis annually.\n\u2022 Successfully deployed AI/ML projects remotely, adapting to dynamic conditions\nand gaining significant experience in the AI/ML field.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "company_name": "Pakistan Freelancing Training Center",
+      "job_title": "Artificial Intelligence Engineer",
+      "employment_type": null,
+      "location": "Lahore, Pakistan",
+      "start_date": "2021-01",
+      "end_date": "2021-12",
+      "is_current": false,
+      "description": "\u2022 Led AI and Data Science training sessions, preparing students to tackle\nchallenges.\n\u2022 Designed and deployed models using TensorFlow and Keras, improving system\nand accuracy.\n\u2022 Bridged the gap between academic learning and industry skills, driving practical\napplications of AI technologies.\n\u2022 Automated repetitive data tasks using Python, significantly reducing manual labor\nand error rates.\n\u2022 Engaged in ongoing AI research to apply cutting-edge methodologies to projects.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Artificial Intelligence",
+        "Data Science",
+        "TensorFlow",
+        "Keras",
+        "Python"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [
+    {
+      "name": "IBM Machine Learning Specialization Professional Certificate",
+      "issuing_organization": "IBM",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization",
+      "issuing_organization": "Microsoft",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuing_organization": "DeepLearning.ai",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Machine Learning Engineering for Production (MLOps)",
+      "issuing_organization": "DeepLearning.ai",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Prompt Engineering for ChatGPT",
+      "issuing_organization": "Vanderbilt University",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Generative Adversarial Networks (GANs) Specialization",
+      "issuing_organization": "DeepLearning.ai",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "AI Product Management",
+      "issuing_organization": "Duke University",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Preparing for Google Cloud Certification: Machine Learning Engineer",
+      "issuing_organization": "Google",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "IBM Generative AI Product Managers",
+      "issuing_organization": "IBM",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "IBM AI Product Manager",
+      "issuing_organization": "IBM",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "AWS Cloud Solutions Architect Professional Certificate",
+      "issuing_organization": "Amazon Web Services",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Google Project Management: Professional Certificate",
+      "issuing_organization": "Google",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Practical Data Science on the AWS Cloud Specialization",
+      "issuing_organization": "DeepLearning.ai",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "issuing_organization": "DeepLearning.AI",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "MLOps | Machine Learning Operations Specialization",
+      "issuing_organization": "Duke University",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Google Business Intelligence Professional Certificate",
+      "issuing_organization": "Google",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Advanced Machine Learning on Google Cloud Specialization",
+      "issuing_organization": "Google Cloud",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Large Language Model Operations (LLMOps)",
+      "issuing_organization": "Duke University",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Google Advanced Data Analytics Professional Certificate",
+      "issuing_organization": "Google",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Assistance Application (LLM)",
+      "description": "Architected a comprehensive Health\nAssistance Application leveraging the Gemini 1.5 Pro LLM model, RAG,\nand LangChain. This solution supports doctors and patients by providing\ndetailed medical information, symptom diagnosis, treatment suggestio ns,\nand preventive healthcare advice. The integration of generative AI\nensures accurate and personalized health recommendations, significantly\nenhancing patient care and medical consultations.",
+      "technologies": [
+        "Gemini 1.5 Pro",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "LangChain"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "AI-Powered Blog Generator (LLM)",
+      "description": "Developed an AI-powered content\ngeneration system leveraging Llama 3.1 8B, AWS Bedrock, and RAG for real-time fine-\ntuning on dynamic datasets. Integrated with Streamlit for a seamless user\ninterface, the system automated blog creation, editing, and publishing,\nincreasing efficiency in content marketing and engagement for enterprises.",
+      "technologies": [
+        "Llama 3.1 8b",
+        "Aws Bedrock",
+        "Retrieval-Augmented Generation",
+        "Streamlit"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Conversational AI Chatbot for Customer Support (GPT-4o, LangChain,\nBedrock)",
+      "description": "Designed and deployed an enterprise-grade chatbot powered by\nGPT-4o, integrated with LangChain and AWS Bedrock. Implemented\nNLP techniques such as intent recognition and dynamic response\ngeneration, reducing customer query resolution times by 40% and\nincreasing customer satisfaction.",
+      "technologies": [
+        "Gpt-4o",
+        "LangChain",
+        "Aws Bedrock",
+        "Natural Language Processing"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "AutoML-Studio",
+      "description": "Built a low-code/no-code machine learning platform\nenabling rapid development and deployment of predictive models.\nIncorporated MLflow for tracking, XAI (SHAP) for explainability, and data\ndrift detection to ensure model reliability. Deployed with FastAPI and\nStreamlit, the platform supports classification, regression, time-series\nforecasting and clustering, empowering non-technical users to build robust\nAI solutions.",
+      "technologies": [
+        "MLflow",
+        "Xai",
+        "Shap",
+        "FastAPI",
+        "Streamlit"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "DocuWiz AI (LLM)",
+      "description": "Engineered a document intelligence tool\nleveraging advanced NLP models like BART and DistilBERT for text extraction,\nsummarization, and sentiment analysis. Integrated RAG and LLMs to enable\ndetailed insights and visualizations for PDF and DOCX analysis. Deployed\nas an interactive Streamlit application and FastAPI, reducing document\nprocessing time by 60% and enhancing productivity in legal and academic\ndomains.",
+      "technologies": [
+        "Natural Language Processing",
+        "Bart",
+        "Distilbert",
+        "Retrieval-Augmented Generation",
+        "Large Language Models",
+        "Streamlit",
+        "FastAPI"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Harvestify-AI-Powered-Plant-Health-Assistant",
+      "description": "Designed and\nan AI-driven application leveraging Azure AI Studio and Azure App\nServices to diagnose plant leaf diseases through real-time image analysis.\nThe system integrates deep learning models to recommend crops and\nfertilizer solutions tailored to soil and weather conditions, enhancing\nagricultural decision-making. Deployed on Microsoft Azure, the solution\nreduced disease detection time by 70%, improved crop yield predictions\nby 30%, and empowered farmers with actionable insights to optimize\nproductivity and sustainability.",
+      "technologies": [
+        "Azure Ai Studio",
+        "Azure App Services",
+        "Deep Learning"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Intelligent Document Summarization Tool (LLM)",
+      "description": "Developed an\nDocument Summarization Tool using transformer-based LLM models\nlike Pegasus to generate concise summaries from lengthy documents\npreserving key information. Deployed with FastAPI and Streamlit APP\nfor real-time interaction, supporting formats like PDF and DOCX, and\nleveraging semantic analysis for relevance extraction. Reduced manual\ndocument review time by 60%, boosting productivity in legal and academic\nworkflows.",
+      "technologies": [
+        "Large Language Models",
+        "Pegasus",
+        "FastAPI",
+        "Streamlit App"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Customer Satisfaction Prediction System (MLOps)",
+      "description": "Created a predictive\nanalytics system using ZenML and MLflow within an MLOps framework to\nachieve 93% accuracy in forecasting customer satisfaction. Streamlined\npipeline management and deployed models efficiently, providing actionable\ninsights that improved business decision-making and customer retention\nstrategies.",
+      "technologies": [
+        "Zenml",
+        "MLflow",
+        "MLOps"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "languages_spoken": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "proficiency": "Fluent"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 8.9,
+    "career_level": "Senior",
+    "primary_domain": "Data Science",
+    "resume_language": "en"
+  }
+}

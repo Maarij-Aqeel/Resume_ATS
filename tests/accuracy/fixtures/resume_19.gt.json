@@ -1,0 +1,217 @@
+{
+  "personal_info": {
+    "full_name": "AAYUSH OSTWAL",
+    "email": "aayushostwal99@gmail.com",
+    "phone": "7821921927",
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://Website",
+    "other_urls": [
+      "Github",
+      "Blogs",
+      "LinkedIn"
+    ]
+  },
+  "professional_summary": "Experienced AI Engineer with 4 years of proven expertise in architecting and\nat navigating complex systems, driving cross-functional collaboration, and\nfor transforming ambiguous problems into elegant, high-impact solutions that\ning excellence, system design, and delivering measurable business value.\nbalance usability with technical depth. Relentlessly focused on engineer-",
+  "skills": {
+    "technical": [
+      "Python",
+      "JavaScript",
+      "Bash",
+      "SQL",
+      "Groovy",
+      "C",
+      "Clojure",
+      "Scala",
+      "PySpark",
+      "TypeScript",
+      "Torchserve",
+      "LangChain",
+      "Django",
+      "Celery",
+      "Bazel",
+      "Hadoop",
+      "React",
+      "Vite.js",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "H2",
+      "Chroma",
+      "Aws Ec2",
+      "Amazon RDS",
+      "AWS Lambda",
+      "Amazon CloudWatch",
+      "Amazon SQS",
+      "Amazon SNS",
+      "Cache",
+      "Asg",
+      "Elb",
+      "Cdk",
+      "Redbrick",
+      "Vpc Peering",
+      "Jenkins",
+      "Docker",
+      "Metabase",
+      "Grafana",
+      "Datadog",
+      "Keycloak Oauth2",
+      "Git",
+      "Vercel",
+      "Git-spr",
+      "Firebase",
+      "Figma",
+      "Jira",
+      "Selenium",
+      "Tor"
+    ],
+    "soft": [
+      "Navigating Complex Systems",
+      "Driving Cross-functional Collaboration",
+      "Mentoring Teams",
+      "Usability",
+      "Engineer-"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "Qure.ai",
+      "job_title": "Senior AI Engineer",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2022-06",
+      "end_date": null,
+      "is_current": true,
+      "description": "Modularized X-ray & CT processing into microservices, reducing Bazel >\nto accelerate builds and releases by 40%.\nEngineered real-time, operational-level database sync with complex >\nKey Resolution Algorithm from 100 on-prem systems to cloud.\nOptimized database performance maintaining CPU under 50% by >\nEXPLAIN plans, minimizing MultiXact and buffer waits, and implement-\ning dynamic partitioning, saving $20K in infra costs\nBuilt an in-house translation service using Django and Vite.js, deployed on >\nVercel, saving $10K annually in localization costs with Zero Downtime.\nCustomized open-source Metabase in Clojure with i18n configs and APIs to >\nenable internationalization across 8 languages.\nDeveloped an FSM-based interface enabling interactive user workflows with >\nwith configurable, event-driven transitions and automated actions.\nCoded Infrastrucure as Code IaC using aws-cdk which reduced >\ntime by 50% across 8 regions and 5 microservices.\nLed a team of 4, mentored junior developers, and designed and streamlined >\nthe interview process for SRE and SDE roles to improve hiring efficiency.\nCreated small LLM Agents with RAG to search with internal code and >\nusing vector database and AWS Bedrock.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Bazel",
+        "Django",
+        "Vite.js",
+        "Clojure",
+        "Aws-cdk",
+        "Aws Bedrock"
+      ]
+    },
+    {
+      "company_name": "HiLabs Inc",
+      "job_title": "Data Scientist",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2021-06",
+      "end_date": "2022-06",
+      "is_current": false,
+      "description": "Built an internal provider directory by web-scraping U.S. doctor data from >\n20 insurer sites using Selenium, Python, and Tor for seamless IP rotation.\nAccelerated processing of 1M records from 2 days to 3 hours using >\non Hadoop clusters.\nImproved data quality by identifying and removing 89K anomalous >\nin the Georgia market, enhancing final client report accuracy.\nLed 20 sales POCs, securing 5 wins and 1 full-scale contract for >\ndata validation.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Selenium",
+        "Python",
+        "Tor",
+        "Hadoop"
+      ]
+    },
+    {
+      "company_name": "HiLabs Inc",
+      "job_title": "Data Scientist, Internship",
+      "employment_type": "internship",
+      "location": null,
+      "start_date": "2021-02",
+      "end_date": "2021-05",
+      "is_current": false,
+      "description": "Rewritten, optimized, & organized 500 complex SQL queries to generate >\nreliable datasets & dashboards for business intelligence & reporting.",
+      "achievements": [],
+      "skills_mentioned": [
+        "SQL"
+      ]
+    },
+    {
+      "company_name": "MateRate Education",
+      "job_title": "Data Analyst, Internship",
+      "employment_type": "internship",
+      "location": null,
+      "start_date": "2020-05",
+      "end_date": "2020-06",
+      "is_current": false,
+      "description": "Constructed AgglomerativeClustering models to segment student groups >\nfor Randomized Control Trials, enabling targeted interventions.\nAutomated stakeholder reporting by generating interactive HTML reports >\nfrom student responses using Python, improving transparency & efficiency.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "Indian Institute of Technology, Kanpur",
+      "degree_type": "Bachelor",
+      "field_of_study": "Mechanical Engineering",
+      "start_date": "2017-06",
+      "graduation_date": "2021-06",
+      "is_ongoing": false,
+      "gpa": 7.9,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Portfolio Website Github",
+      "description": "Designed and developed a personal website using TypeScript and deployed >\non Vercel for high performance and scalability\nIntegrated Medium articles into personal website with topic-based tagging >\nand implemented a filtering feature for easy content navigation",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Author Medium",
+      "description": "Authored 35 technical articles for publications like Towards Data Science, >\nLevelUpCoding, & Illumination on software development, databases, & AI",
+      "technologies": [],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "languages_spoken": [],
+  "awards": [
+    {
+      "title": "Secured 1st position in Street Play",
+      "issuer": "Antaragni\u201919",
+      "date": "2019-01",
+      "description": null
+    },
+    {
+      "title": "2nd position in Stage play and Mime",
+      "issuer": "Inter IIT Cult Meet 4.0",
+      "date": null,
+      "description": "1st position in Street Play"
+    }
+  ],
+  "publications": [],
+  "volunteer_experience": [
+    {
+      "organization": "Dramatics Club, IIT Kanpur",
+      "role": "Coordinator",
+      "start_date": "2019-01",
+      "end_date": "2020-01",
+      "description": "Organized 5 Theater Activities and Competitions on the campus with a >\ndedicated Team of 50 members.\nCollaborated with Election Commission Cell for smooth conduction of >\nand Cell for Differently Abled for awareness and motivation."
+    }
+  ],
+  "parser_metadata": {
+    "total_years_experience": 5.2,
+    "career_level": "Senior",
+    "primary_domain": "Artificial Intelligence",
+    "resume_language": "en"
+  }
+}

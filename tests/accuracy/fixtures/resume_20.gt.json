@@ -1,0 +1,172 @@
+{
+  "personal_info": {
+    "full_name": "RAPHAEL GIRAUD",
+    "email": "raphaelgiraud12@gmail.com",
+    "phone": "+33617663432",
+    "location": {
+      "city": "Mauguio",
+      "state": null,
+      "country": null,
+      "full_address": "166 Rue Rhin et Danube, 34130 Mauguio"
+    },
+    "linkedin_url": null,
+    "github_url": "https://github/toukoum",
+    "portfolio_url": "https://toukoum.fr",
+    "other_urls": []
+  },
+  "professional_summary": "As a Full Stack software engineer specializing in AI, I blend my \u00c9cole 42 education in Paris with hands- on experience gained during my internship at where I developed secure GPTs at the forefront of artificial intelligence innovation. My track record includes numerous successful projects and three hackathon victories, reflecting my entrepreneurial spirit, creative problem-solving abilities, and exceptional adaptability. This combination of expertise and innovative thinking allows me to approach challenges with both efficiency and consistently delivering solutions that exceed expectations.",
+  "skills": {
+    "technical": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Next.js",
+      "Django",
+      "Git",
+      "GitHub",
+      "Object-Oriented Programming",
+      "Algorithms",
+      "Data Structures",
+      "PostgreSQL",
+      "Supabase",
+      "Prisma",
+      "Tailwind CSS",
+      "Docker",
+      "WebSockets",
+      "REST API",
+      "Retrieval-Augmented Generation"
+    ],
+    "soft": [
+      "Curious Mindset",
+      "Initiative"
+    ],
+    "languages": [],
+    "tools": [
+      "Figma"
+    ],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "lighton.ai",
+      "job_title": "Internship",
+      "employment_type": "internship",
+      "location": null,
+      "start_date": "2025-01",
+      "end_date": "2025-01",
+      "is_current": true,
+      "description": "Worked on adding new features for AI tools such as MCP\nImplement a DeepSearch Feature. Enabling the AI to research a topic deeply by combining internal documents + live web results into a final report\nDeveloped connectors for Google Drive, and Teams to sync documents into our company's AI platform for RAG capabilities\nDeveloped specialized web scraping for AI\nBuilt custom tool integrations for AI agents",
+      "achievements": [],
+      "skills_mentioned": [
+        "Artificial Intelligence",
+        "Retrieval-Augmented Generation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "42 School",
+      "degree_type": "Master",
+      "field_of_study": null,
+      "start_date": null,
+      "graduation_date": null,
+      "is_ongoing": true,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    },
+    {
+      "institution_name": null,
+      "degree_type": "High School",
+      "field_of_study": null,
+      "start_date": null,
+      "graduation_date": "2022-06",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": "With Highest Honors",
+      "activities": [
+        "Mathematics Option"
+      ]
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Transcendence",
+      "description": "Group project to create a full web application (online Pong game) with features including chat, matchmaking, 2FA and JWT, multiplayer management with websockets.\nImplemented a REST API with Django and created a SPA in vanilla JS.",
+      "technologies": [
+        "Django",
+        "JavaScript",
+        "WebSockets",
+        "REST API"
+      ],
+      "url": null,
+      "start_date": "2024-09",
+      "end_date": null
+    },
+    {
+      "name": "Minishell",
+      "description": "Designed a command interpreter similar to Bash in C, managing complex features such as environment variables, program execution, pipes, and redirections.",
+      "technologies": [
+        "C"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Inception",
+      "description": "Advanced Docker configuration to a multi-container environment including WordPress, reverse-proxy, and SSL certificates, using Docker and docker-compose.",
+      "technologies": [
+        "Docker"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "DEFAI",
+      "description": "Built DEFAI at ETHOXford, then evolved it into for Paris Blockchain Week & Colosseum\nCreated an AI agent interface designed to make Web3 feel effortless \u2014 sending, swapping, signing contracts, all through a smooth chat UI\nProject available at: https://synto.fun",
+      "technologies": [
+        "Artificial Intelligence"
+      ],
+      "url": "https://synto.fun",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Gotta Go Hack AI Hackathon",
+      "description": "Developed a voice-based virtual salesperson via QR code to improve the customer-to-salesperson ratio\nCreated an AI pipeline with API calls and a RAG",
+      "technologies": [
+        "Artificial Intelligence",
+        "Retrieval-Augmented Generation"
+      ],
+      "url": null,
+      "start_date": "2024-07",
+      "end_date": null
+    }
+  ],
+  "languages_spoken": [],
+  "awards": [
+    {
+      "title": "Winner of 3 international hackathons",
+      "issuer": "Breakout Hackathons",
+      "date": "2025-01",
+      "description": "ETH Oxford, Paris Blockchain Week & Colosseum"
+    }
+  ],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 0.0,
+    "career_level": "Entry",
+    "primary_domain": "Software Engineering",
+    "resume_language": "en"
+  }
+}

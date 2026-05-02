@@ -1,0 +1,203 @@
+{
+  "personal_info": {
+    "full_name": "Maarij Aqeel",
+    "email": null,
+    "phone": "+923328885574",
+    "location": {
+      "city": "Faisalabad",
+      "state": null,
+      "country": "Pakistan",
+      "full_address": null
+    },
+    "linkedin_url": "https://linkedin.com/in/maarijaqeel",
+    "github_url": "https://github.com/Maarij-Aqeel",
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "AI Engineer with 2 years of experience architecting production LLM\npipelines, fine-tuned language models, and API-driven\nAI solutions that reduce operational costs by 75%+ and\napplications and scalable backend systems, specializing in RAG\nserving 10K+ daily users. Proven track record of deploying\nworkflows from days to hours.",
+  "skills": {
+    "technical": [
+      "Rag Pipelines",
+      "LangChain",
+      "Ollama",
+      "FastAPI",
+      "Django",
+      "PostgreSQL",
+      "Next.js 16",
+      "React 19",
+      "Tailwind CSS",
+      "N8n",
+      "Make",
+      "Zapier",
+      "Workflow Automation",
+      "Hugging Face",
+      "Fine-tuning (lora/qlora)",
+      "Vapi",
+      "PyTorch",
+      "Redis",
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "Docker",
+      "CI/CD",
+      "Git",
+      "Restful Api Design",
+      "Agentic Design",
+      "Tiptap",
+      "Zustand",
+      "LaTeX",
+      "Openai Clip",
+      "Pinecone",
+      "Coco Dataset",
+      "Deepseek-coder-v2-base",
+      "Lora",
+      "Botpress",
+      "Llama 3.2"
+    ],
+    "soft": [],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "tools": [
+      "TensorFlow"
+    ],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "Maravilla Cleaners, 16x9 Studio",
+      "job_title": "Contract AI Engineer",
+      "employment_type": "contract",
+      "location": "Remote",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "\u2022 Architected end-to-end Voice + Chat AI agent for Maravilla Cleaners\nand reducing manual booking overhead by while capturing 90%\nmore after-hours leads. 40%+\n\u2022 Engineered AI automation pipeline for 16x9 Studio using and n8n\n(70% acceleration). days\n\u2022 Deployed multi-tenant private cloud using OpenStack and Ansible,\nreduction).",
+      "achievements": [],
+      "skills_mentioned": [
+        "Vapi Voice Api",
+        "N8n"
+      ]
+    },
+    {
+      "company_name": "Software Productivity Strategists (SPS)",
+      "job_title": "Backend & AI Engineer",
+      "employment_type": null,
+      "location": "Remote",
+      "start_date": "2024-09",
+      "end_date": "2024-12",
+      "is_current": false,
+      "description": "\u2022 Productionized FastAPI-based REST endpoints serving 10K+\ndaily requests, optimizing PostgreSQL queries and implementing Redis\ncaching to cut API response time from (30% 450ms to 315ms\nimprovement).\n\u2022 Integrated IBM WatsonX LLM into Greenkeeper app, engineering\nRAG pipelines that automated approval workflows, reducing 12-step\nproject approval time from (90% reduction) for 3 days to 4 hours\nfor concurrent projects. 50+",
+      "achievements": [],
+      "skills_mentioned": [
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Retrieval-Augmented Generation"
+      ]
+    },
+    {
+      "company_name": "Nexium",
+      "job_title": "AI Development Engineer",
+      "employment_type": null,
+      "location": "Remote",
+      "start_date": "2024-06",
+      "end_date": "2024-08",
+      "is_current": false,
+      "description": "\u2022 Architected Intervue AI platform using Next.js, API,\nand with dual-role authentication and real-time analytics, reducing n8n\ninterview setup time by 30%.\n\u2022 Productionized AI blog summarization pipeline using Gemini and\nLangChain, processing articles weekly and reducing content 200+\nreview cycle by (2 minutes). 75% hours to 30\ncutting developer setup time from (96% 4 hours to 10 minutes",
+      "achievements": [],
+      "skills_mentioned": [
+        "Next.js",
+        "Api",
+        "N8n",
+        "Gemini",
+        "LangChain"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "FAST National University of Computer and Emerging Sciences (FAST NUCES)",
+      "degree_type": "Bachelor",
+      "field_of_study": "Artificial Intelligence",
+      "start_date": null,
+      "graduation_date": "2027-01",
+      "is_ongoing": true,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "RoleSync AI \u2013 ATS Resume Optimizer & Cover Letter\nGenerator",
+      "description": "\u2022 Architected AI-powered resume optimization platform scoring\nagainst JDs using dual-metrics (ATS + Domain Fit), achieving\nuser-reported interview callback improvement. 85%+\n\u2022 Engineered real-time keyword injection with DOM-scanning AI and\nTipTap editor, enabling one-click insertion of metric-driven bullet\npoints with visual pulse animations.\n\u2022 Implemented dynamic PDF export pipeline bridging LaTeX\nand TipTap to TexLive backend, delivering ATS-optimized resumes\nwithout external database persistence.\n\u2022 Built zero-upload cover letter generator with Zustand state\nfeaturing ultra-strict prompt engineering for sub-300-word tech-\nnical recruiter-persona outputs and Clipboard API fallback. 3-tier",
+      "technologies": [
+        "Next.js 16",
+        "React 19",
+        "Google Gemini 2.5 Flash",
+        "Tiptap",
+        "Zustand",
+        "LaTeX"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "Semantic Image Search \u2013 Multimodal Retrieval Engine",
+      "description": "\u2022 Engineered multimodal search pipeline using OpenAI CLIP for\ngeneration and Pinecone for vector indexing, achieving <100ms\nretrieval latency across image dataset. 50,000+\n\u2022 Implemented text-to-image, image-to-image, and hybrid search\nworkflows, enabling nuanced discovery of semantically relevant visual\ncontent.",
+      "technologies": [
+        "Python",
+        "Openai Clip",
+        "Pinecone",
+        "Coco Dataset"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "GhostShell \u2013 AI-Powered Terminal Assistant",
+      "description": "\u2022 Fine-tuned DeepSeek-Coder-V2 model using on LoRA 15K+\npairs, improving command prediction accuracy by 27%\nover baseline.\n\u2022 Built CLI autocompletion system leveraging user history and\nvariables to provide intelligent command suggestions.",
+      "technologies": [
+        "Python",
+        "Hugging Face",
+        "Deepseek-coder-v2-base",
+        "Lora"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "SmartDietPlanner \u2013 AI-Powered Nutrition Assistant",
+      "description": "\u2022 Fine-tuned LLaMA 3.2 using on recipe-nutrition LoRA 35,000\npairs, achieving improvement in response relevance and nutritional 27%\naccuracy.\n\u2022 Deployed RAG pipeline with Pinecone vector database for real-time\nrecipe retrieval, serving queries with response time. <2s",
+      "technologies": [
+        "Django",
+        "Botpress",
+        "Hugging Face",
+        "Lora",
+        "Ollama",
+        "Pinecone"
+      ],
+      "url": null,
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 2.8,
+    "career_level": "Mid",
+    "primary_domain": "Artificial Intelligence",
+    "resume_language": "en"
+  }
+}

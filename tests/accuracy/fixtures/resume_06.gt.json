@@ -1,0 +1,170 @@
+{
+  "personal_info": {
+    "full_name": "JESSICA CLAIRE",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": null,
+      "full_address": "100 Montgomery St. 10th Floor"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Friendly and positive, upbeat Customer Service Specialist bringing over 20 years of experience in fast-paced settings. Proven history of being\na efficient team member building trust and maintaining long-term loyalty. Highly adaptable to addressing diverse client needs.",
+  "skills": {
+    "technical": [
+      "Inbound And Outbound Calling",
+      "Inventory Control",
+      "Buying",
+      "Purchasing",
+      "Business Understanding",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Accurate Recordkeeping"
+    ],
+    "soft": [
+      "Problem-solving Abilities",
+      "Reliable",
+      "Trustworthy",
+      "Adaptive Team Player"
+    ],
+    "languages": [],
+    "tools": [
+      "Call Management System",
+      "Web-based Communications",
+      "People Soft",
+      "Point Of Sale Register System"
+    ],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "Midfirst Bank",
+      "job_title": "Online Banking Specialist",
+      "employment_type": null,
+      "location": "Chicago, IL",
+      "start_date": "2018-06",
+      "end_date": null,
+      "is_current": true,
+      "description": "\u00a9 Maintained confidentiality of banking records and client information to avoid possible data breaches.\n\u00a2 Displayed strong telephone etiquette, effectively handling difficult calls.\n\u00a2 Reviewed customer account information to determine current issues and potential solutions.\n\u00ab Answered, screened and processed high volume of calls daily with call management system and web-based\ncommunications.\n\u00a9 Reached out to merchants and customers in order to resolve account problems.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Banking",
+        "Telephone Etiquette",
+        "Call Management System",
+        "Web-based Communications"
+      ]
+    },
+    {
+      "company_name": "Adventist Healthcare",
+      "job_title": "Refund Specialist",
+      "employment_type": null,
+      "location": "Washington, DC",
+      "start_date": "2016-01",
+      "end_date": "2018-08",
+      "is_current": false,
+      "description": "\u00ab Data import, scanning or manual keying process of accounts receivable into Passport PC.\n\u00a2 Processed electronic refunds and updated details in customer accounts.\n\u00a9 Reconciled payments and addressing aged receivables.\n\u00ab Expedited resolutions to correct customer problems and complaints.\n\u00a9 Oversaw disputes resolution and reconciliation for eight client accounts.\n\u00a2 Partnered with credit manager on timely and accurate posting of remittances.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Accounts Receivable"
+      ]
+    },
+    {
+      "company_name": "Midfirst Bank",
+      "job_title": "Online Banking Specialist",
+      "employment_type": null,
+      "location": "Chickasha, OK",
+      "start_date": "2011-10",
+      "end_date": "2015-12",
+      "is_current": false,
+      "description": "\u00a9 Maintained customer loyalty by delivering fast, friendly and knowledgeable service for routine questions and\nservice complaints.\n\n\u00a9 Collected customer feedback and recommended procedural or product changes to enhance future service delivery.\n\n\u00a9 Supported customer service goals and enhanced relations through friendly, knowledgeable and positive\ncommunication.\n\n* Documented conversations with customers in People Soft to track requests, problems and solutions offered.\n\ne Asked probing questions to determine service needs and accurately input information into electronic systems.\n\n\u00a9 Made outbound calls to obtain account information.",
+      "achievements": [],
+      "skills_mentioned": [
+        "People Soft"
+      ]
+    },
+    {
+      "company_name": "50 Floor",
+      "job_title": "Customer Service Representative",
+      "employment_type": null,
+      "location": "Fort Lauderdale, FL",
+      "start_date": "2011-02",
+      "end_date": "2011-10",
+      "is_current": false,
+      "description": "\u00a9 Consulted with upset customers to determine best methods to resolve service and billing issues.\n\u00a9 Informed customers on billing procedures, processed payments and provided assistance to set up payment options.\n\u00a9 Reviewed customer data to assess current issues and determine eligibility for potential solutions.\n\u00a9 Collected customer feedback and recommended procedural or product changes to enhance future service delivery.\n\u00ab Answered 70 inbound calls per day and directed to designated individuals or departments.\n* Documented conversations with customers to track requests, problems and solutions offered.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Lineage Logistics",
+      "job_title": "3rd Key",
+      "employment_type": null,
+      "location": "Kennewick, WA",
+      "start_date": "2010-08",
+      "end_date": "2011-02",
+      "is_current": false,
+      "description": "\u00a9 Coordinated floor moves, merchandising and display maintenance and monitored floor stock to keep popular items\navailable to buyers.\n\n\u00a2 Trained and helped supervise staff to develop and maintain store revenue, team customer service skills and product\nknowledge.\n\n\u00a9 Used Point of Sale register system to complete transactions.\n\n\u00a9 Counted and balanced registers.\n\n\u00a9 Supervised bank deposits and security procedures to support store opening and closing.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Point Of Sale Register System"
+      ]
+    },
+    {
+      "company_name": "Hart Foods Inc",
+      "job_title": "Owner/Operations Manager",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2004-11",
+      "end_date": "2008-07",
+      "is_current": false,
+      "description": "e Reviewed daily financial reports and reconciled accounts to keep information current and accurate.\n\n\u00a9 Monitored supplier operations to verify quality, delivery schedule and conformance to contract specifications.\n\n* Managed profit and loss by following cash control procedures, maintaining inventory, managing labor and\nreviewing financial reports.\n\n\u00ab Negotiated favorable contracts and determined lowest possible cost, factoring in quality and reliability, by\nanalyzing data.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "H&H Industries",
+      "job_title": "Owner/Administrator",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "1998-10",
+      "end_date": "2004-11",
+      "is_current": false,
+      "description": "* Reconciled monthly statements and transactions to keep records accurate and current.\ne Supervised accounting tasks, which included accounts payable and receivable, general ledger management and\nexpense reporting oversight.\n\u00a9 Certified and processed payroll, electronic deposits and pay adjustments while distributing checks.\n\u00a9 Collected payments, issued receipts and updated accounts to reflect new balances.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Accounts Payable",
+        "Accounts Receivable",
+        "General Ledger"
+      ]
+    },
+    {
+      "company_name": "Video Store N' More",
+      "job_title": "Owner/Operator",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "1989-07",
+      "end_date": "1994-10",
+      "is_current": false,
+      "description": "\u00a2 Forecasted sales, allocated resources and managed labor to improve productivity metrics.\n\u00a9 Maintained retail store presentation by overseeing merchandise replenishment, customer courtesy and inquiry\nresponse.\n* Documented purchasing activities, inventory reports and department records.\n\u00a2 Tracked and approved procurement plans and inventory levels.\ne Performed detailed review of high and low-performing products.",
+      "achievements": [],
+      "skills_mentioned": []
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 30.8,
+    "career_level": "Mid",
+    "primary_domain": "Customer Service",
+    "resume_language": "en"
+  }
+}

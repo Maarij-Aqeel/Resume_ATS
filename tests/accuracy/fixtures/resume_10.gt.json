@@ -1,0 +1,90 @@
+{
+  "personal_info": {
+    "full_name": "Samuel Stephen",
+    "email": "sam.ste1980@gmail.com",
+    "phone": "2 (625)-984-0045",
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Driven HR generalist with 6+ years of experience, possessing great expertise in staff coaching, training, development, and engagement. Looking to invigorate the corporate culture at Masus Corporation.",
+  "skills": {
+    "technical": [
+      "Hr Best Practices",
+      "Talent Acquisition",
+      "Staff Coaching",
+      "Employee Relations",
+      "Workforce Planning",
+      "Development"
+    ],
+    "soft": [
+      "Leadership",
+      "Collaboration",
+      "Communication",
+      "Interpersonal Skills",
+      "Meeting Management"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "IVEE Group",
+      "job_title": "HR Generalist",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2016-03",
+      "end_date": "2020-07",
+      "is_current": false,
+      "description": "\u00a2 Enhanced managerial performance up to 33% through benchmarking and streamlining the system for\n\nemployee records.\n\nExecuted a program to foster employee engagement within the corporate, having achieved 100%\nemployee participation.\n\nIntegrated 20+ staff in the aftermath of 2 acquisitions, steering flawless workforce assimilation into\ncore business operations. Contributed to profitable turnaround with >$1M in first-year savings.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "VNG Ltd.",
+      "job_title": "Staffing & Recruitment Associate",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2012-02",
+      "end_date": "2015-12",
+      "is_current": false,
+      "description": "\u00a2 Handled all aspects of the recruitment and staffing procedures for a 400-employee company.\n\n\u00a2 Controlled corporate repositioning, guided recruitment of 100+ technical management staff for US HQ.\n\n\u00a2 Supported the company's long-term growth and expansion by managing and executing hiring policies,\nprocedures and innovative technology.",
+      "achievements": [],
+      "skills_mentioned": []
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "San Diego State University",
+      "degree_type": "Bachelor",
+      "field_of_study": "HRM",
+      "start_date": "2008-01",
+      "graduation_date": "2012-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 8.2,
+    "career_level": "Mid",
+    "primary_domain": "Human Resources",
+    "resume_language": "en"
+  }
+}

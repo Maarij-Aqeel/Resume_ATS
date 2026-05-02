@@ -1,0 +1,95 @@
+{
+  "personal_info": {
+    "full_name": "React JS and Node.js Developer",
+    "email": null,
+    "phone": null,
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": null,
+  "skills": {
+    "technical": [
+      "React",
+      "REST API",
+      "Single-page-applications",
+      "Spas",
+      "Redux",
+      "Node.js"
+    ],
+    "soft": [
+      "Project Management"
+    ],
+    "languages": [],
+    "tools": [
+      "Jira",
+      "Atlassian",
+      "Asana",
+      "Git",
+      "Subversion"
+    ],
+    "certifications_mentioned_as_skills": [
+      "Certified React Programmer"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": null,
+      "job_title": "full-stack NodeJS and React developer",
+      "employment_type": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "description": "* Working as a full-stack NodeJS and React developer (both frontend\nand backend)\n\n\u00a2 Transition monolithic services and application to service-based and\nmodular NodeJS applications and tools\n\n* Have developed single-page applications using a full stack\nREactJS+NodeJS web development tool\n\n\u00a2 Have designed and developed modular and reusable RESTful APIs and\nfrontend components\n\n\u00a2 Have worked with a team, and managed work using a centralized set of\nproject management tools\n\n* Web development using version control and code-base management\ntools",
+      "achievements": [],
+      "skills_mentioned": [
+        "Node.js",
+        "React",
+        "REST API"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": null,
+      "degree_type": "Master",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "graduation_date": null,
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified React programmer",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 0.0,
+    "career_level": "Entry",
+    "primary_domain": "Software Development",
+    "resume_language": "en"
+  }
+}

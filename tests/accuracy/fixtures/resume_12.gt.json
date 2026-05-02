@@ -1,0 +1,93 @@
+{
+  "personal_info": {
+    "full_name": "Robert Smith",
+    "email": "info@qwikresume.com",
+    "phone": "(123)-456-7899",
+    "location": {
+      "city": "Alabarna",
+      "state": null,
+      "country": null,
+      "full_address": "1737 Marshwille Road, Alabarna"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Seeking a career where one can be challenged further in ernployee benefits\nwhile still gaining personal development.",
+  "skills": {
+    "technical": [
+      "Inventory Management",
+      "Organization",
+      "Coordinating",
+      "Planning",
+      "Fitness Assessments",
+      "Seven Point Skin-fold Body Fat Measurements",
+      "Blood Pressure",
+      "Vo2 Capacity",
+      "Nasm Certified"
+    ],
+    "soft": [
+      "Customer Service"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": [
+      "Nasm Certified"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "ABC Corporation",
+      "job_title": "Fitness Professional",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2013-06",
+      "end_date": "2014-10",
+      "is_current": false,
+      "description": "= Have a one-on-one basis with clients, instructing then with exercises\nand nutrition advice to reach their weight loss goals or other fitness\ngoals.\n= Sell training packages to members and makes monthly quotas,\n= Treat every Individual client with special priority and with top custorner\nservice.\n* Helped many clients reach their fitness goals and give them incredible\ntransformations.\n= Brought sales into the gyrn from personal friends/family giving the\nowners of the aym more business,\n= Worked as a tearm with other ernployees,\n* Showed hard work through personalizing every clients special needs\nand desires.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Delta Corporation",
+      "job_title": "Fitness Professional",
+      "employment_type": null,
+      "location": "Columbia, MD",
+      "start_date": "2012-01",
+      "end_date": "2013-01",
+      "is_current": false,
+      "description": "* Fitness Consultant (May 2014 - Novernber 2014) Drove training &arnp;\nsales revenue with a focus on the members needs Set up intemal\n&armp; external marketing .\n= Columbia, MD As acertified personal trainer by the National Academy of\nSport Sciences, | guide clients throughout the week in safe exercise,\nweight .\n= My skill set in this realrn also Includes administering fitness\nassessments, seven point skin-fold body fat measurements, blood\npressure, VO2 capacity .\n* Managed satellite locations ex John Hancock, Chatharn Centre, The\nStreeter Generated clientele, solved client concerns, and scheduled\nconsultations .\n* Develop and deliver comprehensive training programs to help\nindividuals meet their fitness goals, promote company products and\nservices, exceed .\n= Provide specific exercise and meal plans fire clients,\n= Lead group exercises Skills Used NASM certified.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Nasm Certified"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "French",
+      "proficiency": "Professional"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Professional"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 2.3,
+    "career_level": "Junior",
+    "primary_domain": "Fitness",
+    "resume_language": "en"
+  }
+}

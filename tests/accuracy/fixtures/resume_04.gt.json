@@ -1,0 +1,141 @@
+{
+  "personal_info": {
+    "full_name": "JESSICA\nCLAIRE",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": {
+      "city": "Memphis",
+      "state": "TN",
+      "country": null,
+      "full_address": "100 Montgomery St. 10th\n9 Floor"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Experienced Information Technology Manager well-versed in infrastructure, security planning and daily\noperations management. Forward-thinking and strategic leader with [Number] years of experience in\n[Industry]. Recognized for cost-effective system improvements, operational streamlining and positive\nleadership style. Successful at optimizing security standards, improving planning processes and\nmanaging systems implementation. Knowledgeable about disaster recovery planning, roadmapping and\nteam development. Insightful Information Technology Manager with [Number] years of IT leadership\nexperience including oversight of infrastructure, application support and security services. Dedicated\nto customer satisfaction with focused delivery of technical solutions. Proven leader in directing\noperations, maintenance and support of complex systems. Develops creative business solutions,\nleveraging diverse methodologies and delivering engineering solutions for leading organizations.\nHighly adept in request for proposal development, technology needs assessments and staff training.\nStrategic Information Technology Manager skilled in guiding navigation of modern technology.\nAccustomed to driving efficiency and effectiveness by developing, delivering and supporting strategic\nplans. Demonstrated skill in translating technical requirements to business solutions. Successful\n[Number]-year record of building positive relationships with internal and external stakeholders.\nReliable employee seeking [Job Title] position. Offering excellent communication and good judgment.\nHardworking and passionate job seeker with strong organizational skills eager to secure entry-level\n(Job Title] position in [Type] environment. Ready to help team achieve company goals. Experienced\n(Job Title] with over [Number] years of experience in [Industry]. Excellent reputation for resolving\nproblems and improving customer satisfaction. Driven student leveraging studies in [Area of study]\nseeks real-world experience as [Job Title]. Offers strong interpersonal and task prioritization skills.\nFriendly student available for weekend, evening and holiday shifts. Considered hardworking, punctual\nand driven. Enthusiastic [Job Title] eager to contribute to tearm success through hard work, attention\nto detail and excellent organizational skills. Clear understanding of [Task] and training in [Skill].\nMotivated to learn, grow and excel in [Industry]. Reliable Intern studying [Area of study] seeks an\ninternship opportunity to expand skills and gain valuable real-world experience. To seek and maintain\na full-time position that offers professional challenges utilizing interpersonal skills, excellent time\nmanagement and problem-solving skills. Dedicated [!ndustry] professional with history of meeting\ncompany goals utilizing consistent and organized practices. Skilled in working under pressure and\nadapting to new situations and challenges to best enhance the organizational brand. Organized and\ndependable candidate successful at managing multiple priorities with a positive attitude. Willingness\nto take on added responsibilities to meet team goals.",
+  "skills": {
+    "technical": [
+      "Infrastructure",
+      "Security Planning",
+      "Disaster Recovery Planning",
+      "Roadmapping",
+      "Application Support",
+      "Engineering Solutions",
+      "Technology Needs Assessments",
+      "Technology Integration",
+      "Wireless Devices",
+      "Multi-site Network Infrastructure",
+      "Business Intelligence Development",
+      "Software Engineering",
+      "Network Operations"
+    ],
+    "soft": [
+      "Teamwork",
+      "Collaboration",
+      "Decision Making",
+      "Leadership",
+      "Customer Satisfaction",
+      "Communication",
+      "Judgment",
+      "Organizational",
+      "Interpersonal",
+      "Task Prioritization",
+      "Hardworking",
+      "Punctual",
+      "Attention to Detail",
+      "Time Management",
+      "Problem Solving",
+      "Organized",
+      "Dependable",
+      "Positive Attitude"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "Children's Home Society Of North Carolina",
+      "job_title": "Vice President of Information Technology",
+      "employment_type": null,
+      "location": "Asheboro, NC",
+      "start_date": "2014-02",
+      "end_date": "2021-10",
+      "is_current": false,
+      "description": "+ Communicated regularly with customers concerning data exchange and technology integration.\n\n+ Implemented and managed wireless devices, multi-site network infrastructure, business\nintelligence development and implementation.\n\n+ Led team for software engineering services and supported key clients in development efforts,\nestablishing standards, determining specifications and creating Service and Operational Level\nAgreements (SLA) and (OLA).\n\n+ Coordinated [Type] projects, defined scope, and managed milestones.\n\n+ Interviewed, hired, trained and mentored [Number] staff by coaching daily, leading performance\nreviews and offering constructive feedback.\n\n+ Oversaw development and implementation of improvements to support and network operations.\n\n+ Coordinated with management teams to plan, develop, align and execute strategies that would\nmeet client's vision, mission and purpose.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Technology Integration",
+        "Wireless Devices",
+        "Multi-site Network Infrastructure",
+        "Business Intelligence Development",
+        "Software Engineering",
+        "Network Operations"
+      ]
+    },
+    {
+      "company_name": "Edelman",
+      "job_title": "Information Technology Officer",
+      "employment_type": null,
+      "location": "Rochester, NY",
+      "start_date": "2010-09",
+      "end_date": "2014-02",
+      "is_current": false,
+      "description": "+ Developed and led large-scale technology initiatives for long-term strategic plans and solutions.\n\n+ Configured and implemented IT initiatives to produce measurable business value.\n\n+ Reduced costs by [Number]% through effective mediation of various agreements.\n\n+ Tracked expenditures, schedule and IT systems performance progress in [Software].\n\n+ Incorporated technology guidelines, controls, processes and solutions to mitigate business risks.\n\n+ Collaborated closely with upper management to drive strategy through development and\nimplementation of new processes.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Sawyers & Jacobs",
+      "job_title": "Consultant",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2009-10",
+      "end_date": "2010-09",
+      "is_current": false,
+      "description": "+ Liaised with customers, management and sales team to better understand customer needs and\nrecommend appropriate solutions.\n\n+ Boosted success of client's organization by improving performance, motivation, job satisfaction,\nhiring practices, training programs and management systems.\n\n+ Initiated success of client's organization by improving performance, hiring practices and\nmanagement systems.\n\n+ Took detailed notes and kept records of program and performance progress, education initiatives\nand leadership.\n\n+ Delivered outstanding service to clients to maintain and extend relationship for future business\nopportunities.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Oakland Deposit Bank",
+      "job_title": "Vice President - Technology Officer",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "1999-02",
+      "end_date": "2009-04",
+      "is_current": false,
+      "description": "+ Configured and implemented IT initiatives to produce measurable business value.\n\n+ Developed and led large-scale technology initiatives for long-term strategic plans and solutions.\n\n+ Delivered cost-benefit analysis to weigh financial decision impact against desired outcomes.\n\n+ Tracked expenditures, schedule and IT systems performance progress in [Software].\n\n+ Coordinated with management teams to plan, develop, align and execute strategies that would\nmeet client's vision, mission and purpose.",
+      "achievements": [],
+      "skills_mentioned": []
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "University of Memphis",
+      "degree_type": "Bachelor",
+      "field_of_study": "Computer\nSystems Engineering Techology",
+      "start_date": null,
+      "graduation_date": "1994-05",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 22.2,
+    "career_level": "Executive",
+    "primary_domain": "Information Technology",
+    "resume_language": "en"
+  }
+}

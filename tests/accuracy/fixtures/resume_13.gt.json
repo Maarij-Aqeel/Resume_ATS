@@ -1,0 +1,86 @@
+{
+  "personal_info": {
+    "full_name": null,
+    "email": null,
+    "phone": null,
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": null,
+  "skills": {
+    "technical": [
+      "JavaScript",
+      "React",
+      "Front-end Optimization Techniques",
+      "React Framework",
+      "Data Structure Libraries"
+    ],
+    "soft": [
+      "Written Communication Skills",
+      "Verbal Communication Skills",
+      "Problem-solving Skills"
+    ],
+    "languages": [
+      "JavaScript"
+    ],
+    "tools": [
+      "Front-end Build Pipelines",
+      "Tools"
+    ],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": null,
+      "job_title": null,
+      "employment_type": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "description": "Working as part of a team to write application interfaces using\nJavascript\nDeveloping with the React framework\nExperience writing well-structured code\nWorking with modern front-end build pipelines and tools\nExperience with data structure libraries Experience testing applications\nand identifying bugs",
+      "achievements": [],
+      "skills_mentioned": [
+        "JavaScript",
+        "React Framework",
+        "Front-end Build Pipelines",
+        "Tools",
+        "Data Structure Libraries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": null,
+      "degree_type": "Bachelor",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "graduation_date": null,
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 0.0,
+    "career_level": "Junior",
+    "primary_domain": "Software Development",
+    "resume_language": "en"
+  }
+}

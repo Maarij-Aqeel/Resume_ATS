@@ -1,0 +1,195 @@
+{
+  "personal_info": {
+    "full_name": "JESSICA\nCLAIRE",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null,
+      "full_address": "100 Montgomery St. 10th\n9 Floor"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Forward-thinking Bioinformatics and Data Science Engineer with the related experience and dedication\nto make a difference to research and clinical outcomes. Proven skills in evaluating bioinformatics data\nwith software-based, statistical and data mining approaches.\n\nExcellent documentation, reporting and presentation skills. Seeking to offer knowledge and abilities to\na dynamic, growth-oriented company.",
+  "skills": {
+    "technical": [
+      "R-programming",
+      "Linux Environment",
+      "Bash Scripting",
+      "SQL",
+      "MySQL",
+      "SQL Server",
+      "Apache Drill (nosql)",
+      "Python",
+      "Java",
+      "Visual Basic",
+      "Qlik Sense",
+      "Bioinformatics",
+      "Open Source Bioinformatics Tools",
+      "Databases",
+      "Ngs Analysis",
+      "Annotation",
+      "Visualization Tools",
+      "Computer Science",
+      "Microsoft 365",
+      "Microsoft Teams",
+      "OneDrive",
+      "Microsoft Excel",
+      "Microsoft Word",
+      "Redcap",
+      "Camtasia",
+      "ETL",
+      "Dnanexus"
+    ],
+    "soft": [
+      "Customer Service",
+      "Public Speaking",
+      "Presentation Skills",
+      "Work Integrity",
+      "Critical Thinking",
+      "Teamwork",
+      "Problem Solving"
+    ],
+    "languages": [],
+    "tools": [
+      "QlikView",
+      "Istar",
+      "Jira"
+    ],
+    "certifications_mentioned_as_skills": []
+  },
+  "experience": [
+    {
+      "company_name": "Konica Minolta",
+      "job_title": "Bioinformatics and Data Science Engineer",
+      "employment_type": null,
+      "location": "Seattle, WA",
+      "start_date": "2018-12",
+      "end_date": null,
+      "is_current": true,
+      "description": "+ Primary responsibilities include demonstrating ORIEN Informatics portal and collect feedback and\nfeature requirements from researchers including biologists, clinical trial designers and clinicians\n\n+ Active contributor to monthly clinical/molecular data releases\n\n+ Perform exploratory data analysis and visualizations using R to support needs for internal and\ncollaborative data research projects\n\n+ Demo interactive informatics tools with M2Gen\u2019s executive leadership team, to cancer centers and\npharmaceutical companies across the USA\n\n+ Collaborate with team members to implement pipelines in a Linux based environment and\nDNAnexus, ultimately uploading molecular data to a MySQL database\n\n+ Translating/piloting common bioinformatics tools to applications suitable for non-bioinformatics\nbiologists and clinicians to query and interpret the molecular/clinical data\n\n+ Pilot developer: design features, and pilot applications",
+      "achievements": [],
+      "skills_mentioned": [
+        "R",
+        "Linux",
+        "Dnanexus",
+        "MySQL"
+      ]
+    },
+    {
+      "company_name": "Bionano Genomics, Inc.",
+      "job_title": "BMT Data Analyst",
+      "employment_type": null,
+      "location": "San Diego, CA",
+      "start_date": "2018-05",
+      "end_date": "2018-12",
+      "is_current": false,
+      "description": "+ Work collaboratively in a team of lead medical oncologist to automate the collection and reporting\nof CAR-T cell therapy data\n\n+ Automate processes using R and MySQL to support the data needs of ICE-T leadership\n\n+ Create queries in a MySQL relational database to supplement IT reporting\n\n+ Experience using iStar and Jira for triaging database issues collaboratively between departments\n\nActive participant of |CE-T tumor board",
+      "achievements": [],
+      "skills_mentioned": [
+        "R",
+        "MySQL",
+        "Istar",
+        "Jira"
+      ]
+    },
+    {
+      "company_name": "Moffitt Cancer Center (M2Gen)",
+      "job_title": "Data Project Analyst",
+      "employment_type": null,
+      "location": "City, STATE",
+      "start_date": "2016-08",
+      "end_date": "2018-05",
+      "is_current": false,
+      "description": "+ Demonstrate initiative by completing Moffitt Cancer Center classes in Bioinformatics and\nBiostatistics\n\n+ Build RedCap forms for clinical data abstraction\n\n+ Create video tutorials using Camtasia to teach customers how to use Qlik based tools\n\n+ Follow QA/QC/UAT procedures to validate cancer related clinical data for customers on a bi-weekly\nbasis\n\n+ Write queries in SQL to test the quality and movement of data between staging and production\nenvironments in the data warehouse\n\n+ Work on complex problems in which analysis of situations or data requires an in-depth evaluation\nof various factor\n\n+ Exercise independent judgment and project oversight within broadly defined practices and policies\nin selecting methods, techniques and evaluating criteria for obtaining results\n\n+ Identify issues with ETL process and fast-tracks corrective produces, while developing templates\nfor future improvement",
+      "achievements": [],
+      "skills_mentioned": [
+        "Bioinformatics",
+        "Biostatistics",
+        "Redcap",
+        "Camtasia",
+        "QlikView",
+        "SQL",
+        "ETL"
+      ]
+    },
+    {
+      "company_name": "Moffitt Cancer Center (M2Gen)",
+      "job_title": "Bioinformatics Intern",
+      "employment_type": "internship",
+      "location": "City, STATE",
+      "start_date": "2016-04",
+      "end_date": "2016-08",
+      "is_current": false,
+      "description": "+ Work directly with Executive Leadership to data mine clinicaltrials.gov and PubMed using R-\nProgramming\n\n+ Apply a high degree of critical thinking to develop R-Scripts to compile PFS\n\n+ Use R to extract drug elements from XML files to summarize FDA approval of drugs",
+      "achievements": [],
+      "skills_mentioned": [
+        "R-programming",
+        "R"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "University of Waterloo",
+      "degree_type": "Bachelor",
+      "field_of_study": "Honors\nBiochemistry",
+      "start_date": null,
+      "graduation_date": "2015-06",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": [
+        "Completed education in\nbioinformatics, biochemistry,\norganic chemistry and human\nmolecular genetics"
+      ]
+    },
+    {
+      "institution_name": "Heart Lake Secondary School",
+      "degree_type": "High School",
+      "field_of_study": null,
+      "start_date": null,
+      "graduation_date": "2010-01",
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [
+    {
+      "title": "First winner of the M2Gen's Spot Award for teamwork and problem solving by writing SQL code as an alternate method for clinical data QC",
+      "issuer": null,
+      "date": null,
+      "description": null
+    },
+    {
+      "title": "Canadian Society for Chemistry Accreditation",
+      "issuer": null,
+      "date": null,
+      "description": null
+    },
+    {
+      "title": "Faculty of Science Entrance Scholarship",
+      "issuer": null,
+      "date": null,
+      "description": null
+    }
+  ],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 10.1,
+    "career_level": "Mid",
+    "primary_domain": "Bioinformatics",
+    "resume_language": "en"
+  }
+}

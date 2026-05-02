@@ -1,0 +1,129 @@
+{
+  "personal_info": {
+    "full_name": "BRENDA HAWKINS",
+    "email": "example-email@example.com",
+    "phone": "(555) 322-7337",
+    "location": {
+      "city": "New Cityland",
+      "state": "CA",
+      "country": null,
+      "full_address": "1 Main Street, New Cityland, CA 91010"
+    },
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Energetic Group Fitness Instructor and Personal Trainer with strong background in Pilates, yoga, weights, running,\nand dance instruction. Highly motivated to help others reach their health and fitness goals. Promotes activities\nand coping methods that transform unhealthy habits and fuel healthy minds and bodies.",
+  "skills": {
+    "technical": [
+      "Pilates",
+      "Yoga",
+      "Weight Training",
+      "Fitness Equipment",
+      "Weight Management",
+      "Personal Program Development",
+      "Individual Life Assessments",
+      "Body Assessments",
+      "Cardio",
+      "Fitlinxx"
+    ],
+    "soft": [
+      "Personable",
+      "Friendly",
+      "Motivational"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": [
+      "Acsm Health And Fitness Instructor",
+      "Certified Ace Group Fitness Instructor",
+      "Certified Group Exercise Instructor, Afaa",
+      "Certified Personal Trainer, Afaa",
+      "Cpr",
+      "First-aid"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Academy Fitness",
+      "job_title": "Fitness Instructor",
+      "employment_type": null,
+      "location": "New Cityland, CA",
+      "start_date": "2010-06",
+      "end_date": null,
+      "is_current": true,
+      "description": "Design each class to match the skill and learning levels of all participants.\n\nPrepare teaching area for each class and returned all equipment to storage at the end of class.\nTrack class attendance and monitor class size to gauge the effectiveness of promotions.\nPromote club programs, products, and services to participants.\n\nRecord class numbers at the conclusion of each class.\n\nCollaborate with club owners to introduce new fitness classes.\n\nMaintain peak physical condition to better serve and motivate clients.\n\nWork with a handful of clients directly to develop personal fitness goals.\n\nLead early morning motivational runs as a bonus to dedicated clients.",
+      "achievements": [],
+      "skills_mentioned": []
+    },
+    {
+      "company_name": "Multiple Gym and Personal Clients",
+      "job_title": "Fitness Instructor and Personal Trainer",
+      "employment_type": null,
+      "location": "New Cityland, CA",
+      "start_date": "2006-10",
+      "end_date": "2010-05",
+      "is_current": false,
+      "description": "Worked one-on-one with clients to help modify exercises for maximum benefit and safety.\nSet up equipment, tested microphone, and selected music prior to each class.\n\nCleaned and organized studio after each group fitness class.\n\nDeveloped individualized instruction plans including cardio and weight training.\nConducted orientations for new members via FitLinxx.\n\nExplained ways to measure exercise intensity for the best results.\n\nCompleted individual comprehensive fitness assessments.\n\nHelped clients of all ages and fitness levels improve health and wellbeing.\n\nPersonally brought in over 40% of club's personal fitness revenue.",
+      "achievements": [],
+      "skills_mentioned": [
+        "Cardio"
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [
+    {
+      "name": "ACSM health and fitness instructor",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified ACE Group Fitness Instructor",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Group Exercise Instructor, AFAA",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Personal Trainer, AFAA",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "CPR and First-Aid Certifications",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 19.5,
+    "career_level": "Mid",
+    "primary_domain": "Fitness",
+    "resume_language": "en"
+  }
+}

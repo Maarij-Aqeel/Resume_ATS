@@ -1,0 +1,100 @@
+{
+  "personal_info": {
+    "full_name": "Tobias Flenderson",
+    "email": "toby.flenderson@gmail.com",
+    "phone": "+17185551234",
+    "location": {
+      "city": null,
+      "state": "NY",
+      "country": null,
+      "full_address": null
+    },
+    "linkedin_url": "https://linkedin.com/in/tobyflenderson",
+    "github_url": null,
+    "portfolio_url": null,
+    "other_urls": []
+  },
+  "professional_summary": "Personable, CEBS-certified human resources associate with 3+ years experience at large retail outlet with over 300 staff members.\n\nImplemented new training materials which decreased onboarding time by 17% and was instrumental in increasing employee retention\nrate by 22%",
+  "skills": {
+    "technical": [
+      "Salary Administration",
+      "Contract Negotiations",
+      "Job Task Analysis"
+    ],
+    "soft": [
+      "Communication Skills",
+      "Discretion"
+    ],
+    "languages": [],
+    "tools": [],
+    "certifications_mentioned_as_skills": [
+      "Cebs"
+    ]
+  },
+  "experience": [
+    {
+      "company_name": "Big Blue Box Store",
+      "job_title": "HR Generalist",
+      "employment_type": null,
+      "location": null,
+      "start_date": "2016-06",
+      "end_date": "2018-12",
+      "is_current": false,
+      "description": "Key Responsibilities\n\n* Initiated diversity training and cross-cultural communication to create a more comfortable work environment.\n* Arbitrated grievance proceedings and succession planning.\n\n* Conceptualized compensation surveys and new wage administration.",
+      "achievements": [
+        "Implemented new training materials which decreased onboarding time by 17%.",
+        "Instrumental in increasing employee retention rate by 22%."
+      ],
+      "skills_mentioned": [
+        "Diversity Training",
+        "Cross-cultural Communication",
+        "Succession Planning",
+        "Compensation Surveys",
+        "Wage Administration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "City University of New York",
+      "degree_type": "Bachelor",
+      "field_of_study": "Business Administration",
+      "start_date": null,
+      "graduation_date": null,
+      "is_ongoing": false,
+      "gpa": null,
+      "gpa_scale": null,
+      "honors": null,
+      "activities": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SHRM-SCP (SHRM Senior Certified Professional)",
+      "issuing_organization": "SHRM",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "HRCI aPHR (Associate Professional in Human Resources)",
+      "issuing_organization": "HRCI",
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "languages_spoken": [],
+  "awards": [],
+  "publications": [],
+  "volunteer_experience": [],
+  "parser_metadata": {
+    "total_years_experience": 2.5,
+    "career_level": "Mid",
+    "primary_domain": "Human Resources",
+    "resume_language": "en"
+  }
+}
